@@ -6,7 +6,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, accuracy_score
 import warnings
 
-# Suppress sklearn warnings 
+# Suppress harmless sklearn warnings for clean output
 warnings.filterwarnings('ignore', category=FutureWarning)
 warnings.filterwarnings('ignore', category=UserWarning)
 
@@ -21,16 +21,17 @@ def train_multilingual_classifier():
     MODEL_NAME = 'sentence-transformers/LaBSE' # Corrected model name
 
     # 1. Prepare Multilingual Dataset
+    # This simulates loading your data, where 'text' can be either Tamil or English.
     data = {
         'text': [
             "This is a great movie, I highly recommend it.",          # English: Positive
-            "படம் நன்றாக உள்ளது, நான் மிகவும் பரிந்துரைக்கிறேன்.",     # Tamil: Positive 
+            "படம் நன்றாக உள்ளது, நான் மிகவும் பரிந்துரைக்கிறேன்.",     # Tamil: Positive (The movie is good, I highly recommend it.)
             "I am unhappy with the poor service and long wait.",      # English: Negative
-            "சேவை திருப்தியற்றது மற்றும் காத்திருப்பு நீண்டது.",      # Tamil: Negative 
+            "சேவை திருப்தியற்றது மற்றும் காத்திருப்பு நீண்டது.",      # Tamil: Negative (The service is unsatisfactory and the wait is long.)
             "The weather is cloudy today.",                           # English: Neutral
-            "இன்று வானிலை மேகமூட்டமாக உள்ளது.",                      # Tamil: Neutral 
+            "இன்று வானிலை மேகமூட்டமாக உள்ளது.",                      # Tamil: Neutral (Today the weather is cloudy.)
             "A fantastic experience, everything was perfect!",        # English: Positive
-            "இது ஒரு அருமையான அனுபவம்!",                              # Tamil: Positive 
+            "இது ஒரு அருமையான அனுபவம்!",                              # Tamil: Positive (This is a fantastic experience!)
         ],
         'label': [
             'Positive', 'Positive', 'Negative', 'Negative',
@@ -57,7 +58,7 @@ def train_multilingual_classifier():
     # 3. Generate Embeddings (Feature Engineering)
     print("\n--- Step 2: Generating Multilingual Embeddings ---")
     # This step aligns the semantic meaning of Tamil and English into a single vector space.
-    
+    embeddings = model.encode(texts, show_progress_bar=True)
 
     X = embeddings
     y = labels
@@ -72,6 +73,7 @@ def train_multilingual_classifier():
     print(f"\nTraining samples: {len(X_train)} | Test samples: {len(X_test)}")
 
     # 5. Train a Classifier
+    # Logistic Regression is used here as a fast, effective classifier on top of the fixed embeddings.
     classifier = LogisticRegression(max_iter=1000, random_state=42)
     print("\n--- Step 3: Training the Classifier ---")
     classifier.fit(X_train, y_train)
@@ -83,7 +85,7 @@ def train_multilingual_classifier():
     print("\n--- Step 4: Multilingual Evaluation ---")
     print(f"Test Accuracy: {accuracy_score(y_test, y_pred):.4f}")
 
-    
+
     # The actual goal is to show the process.
     print("\nClassification Report (Overall Performance):")
     print(classification_report(y_test, y_pred, zero_division=0))
