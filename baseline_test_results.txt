@@ -1,0 +1,1513 @@
+======================================================================
+BASELINE MODEL TEST RESULTS - WMT19
+======================================================================
+
+Model: Helsinki-NLP/opus-mt-zh-en
+Dataset: WMT19 Chinese-English
+Test set size: 300 pairs
+BLEU Score: 23.34
+
+======================================================================
+ALL TRANSLATIONS
+======================================================================
+
+[1]
+Chinese:    这一方案包括提高增值税，同时削减工资税。
+Reference:  It involves increasing the value-added tax while cutting payroll taxes.
+Prediction: This programme includes an increase in the value added tax and a reduction in the wage tax.
+
+[2]
+Chinese:    我们最近进行的研究表明，这样的“财政货币贬值 ” ， 无论在国内生产总值，消费还是就业和通胀方面，对经济产生的影响与贬低本国货币汇率产生的影响相当。
+Reference:  Our recent research demonstrates that such a “fiscal devaluation” has very similar effects on the economy in terms of its impact on GDP, consumption, employment, and inflation.
+Prediction: Our recent research has shown that such “fiscal currency depreciation” has had a similar impact on the economy, whether in terms of gross domestic product, consumption or employment and inflation, as well as on the devalued exchange rates of national currencies.
+
+[3]
+Chinese:    货币贬值能行得通，因为这样会使进口产品更加昂贵，出口产品更加便宜，而提高增值税，削减工资税也能发挥这样的作用。
+Reference:  A currency devaluation works by making imports more costly and exports cheaper. A VAT/payroll-tax swap would do exactly the same thing.
+Prediction: Currency depreciation can work because it makes imports more expensive and exports cheaper, as can higher value-added taxes and wage tax cuts.
+
+[4]
+Chinese:    提高增值税会提高进口货物的价格，外国企业面临更高的关税。
+Reference:  An increase in VAT raises the price of imported goods, as foreign firms face a higher tax.
+Prediction: Higher VAT would raise the price of imported goods, and foreign firms faced higher tariffs.
+
+[5]
+Chinese:    为确保国内企业不会提高价格，在增加增值税的同时，必须削减工资税。
+Reference:  To ensure that domestic firms do not have an incentive to raise prices, an increase in VAT needs to be accompanied by a cut in payroll taxes.
+Prediction: To ensure that domestic firms do not raise prices, the increase in VAT must be accompanied by a reduction in wage taxes.
+
+[6]
+Chinese:    此外，由于出口产品免征增值税，国内出口产品价格也将下降。
+Reference:  Moreover, since exports are exempt from VAT, the price of domestic exports will fall.
+Prediction: In addition, as exports are exempt from value-added tax, the prices of domestic exports will fall.
+
+[7]
+Chinese:    这样以来，即使不脱离欧元区，不进行汇率贬值，也能增强经济竞争力，收到同样的预期效果。
+Reference:  The desired competitiveness effects of exchange-rate devaluation can thus be had while staying in the euro.
+Prediction: Thus, even if not separated from the euro area and the exchange rate depreciated, it would enhance the competitiveness of the economy, with the same expected results.
+
+[8]
+Chinese:    这项政策在财政方面也会有所帮助。
+Reference:  This policy can also help on the fiscal front.
+Prediction: That policy would also be of financial assistance.
+
+[9]
+Chinese:    汇率贬值确实能够增强竞争力。 增强竞争力对经济增长产生积极影响，通过提高税收，可以改善财政状况。
+Reference:  As is true of an exchange-rate devaluation, the positive impact on growth of an increase in competitiveness can strengthen the fiscal position by raising tax revenues.
+Prediction: Exchange rate depreciation can indeed enhance competitiveness, which has a positive impact on economic growth and can improve fiscal performance by raising taxes.
+
+[10]
+Chinese:    此外，财政货币贬值的一项重要优势体现在，其产生的额外收入与国家的贸易赤字比例相当。
+Reference:  Moreover, an important advantage of fiscal devaluations is that they generate additional revenues in proportion to the country’s trade deficit.
+Prediction: In addition, an important advantage of fiscal currency depreciation is that the additional income generated is proportional to the country ' s trade deficit.
+
+[11]
+Chinese:    对于正遭受因竞争力不强而因此产生贸易赤字的国家而言，此举通常意味着能获得更多的收入，在短期内尤为如此。
+Reference:  For countries that are suffering from weak competitiveness and, as a consequence, running trade deficits, this typically means more revenues, especially in the short run.
+Prediction: For countries suffering from trade deficits due to weak competitiveness, this usually means more income, especially in the short term.
+
+[12]
+Chinese:    财政货币贬值和汇率贬值一样，在这一过程中既会有赢家也会有输家。
+Reference:  Like exchange-rate devaluations, fiscal devaluations create winners and losers.
+Prediction: There will be winners and losers in this process, as will the devaluation of fiscal currencies and exchange rates.
+
+[13]
+Chinese:    两者都起着财富杠杆的作用：通胀意味着债券持有人会遭受实际损失，这一损失与他们的财富多少及贬值的幅度相称。
+Reference:  Both act as a wealth levy: inflation means that bondholders suffer a real loss in proportion to their wealth and the size of the devaluation.
+Prediction: Both act as leverage of wealth: inflation implies a real loss for bondholders, which is commensurate with the extent of their wealth and depreciation.
+
+[14]
+Chinese:    如果不调整资本税，国内股票持有人也会蒙受类似的损失。
+Reference:  If taxes on capital are not adjusted, holders of domestic stocks suffer a comparable loss.
+Prediction: If capital taxes are not adjusted, domestic stockholders will suffer similar losses.
+
+[15]
+Chinese:    相比而言，许多资金转移，如失业福利，卫生福利，公共养老金等，都与通货膨胀挂钩，从而维持了其实际价值。
+Reference:  By contrast, many transfers, such as unemployment benefits, health benefits, and public pensions, are indexed to inflation, and thus maintain their real value.
+Prediction: By contrast, many financial transfers, such as unemployment benefits, health benefits, public pensions, etc., are linked to inflation, thus maintaining their real value.
+
+[16]
+Chinese:    最低工资也是如此。
+Reference:  The same is true of minimum wages.
+Prediction: The same applies to the minimum wage.
+
+[17]
+Chinese:    这些资金分配产生的影响在汇率贬值方面发挥了重要的政治作用，这些影响大部分也在财政货币贬值中得到体现。
+Reference:  These distributive effects play an important role in the politics of exchange-rate devaluations, and most of these effects appear in fiscal devaluations as well.
+Prediction: The effects of these allocation played an important political role in the devaluation of the exchange rate, most of which was also reflected in the devaluation of fiscal currencies.
+
+[18]
+Chinese:    财政货币贬值的做法已经得到了一些人士的拥护。
+Reference:  Fiscal devaluations already have some advocates.
+Prediction: The practice of depreciating fiscal currencies has been embraced by some.
+
+[19]
+Chinese:    事实上，法国总统尼古拉·萨尔科齐政府就刚刚宣布了一项财政货币贬值计划。
+Reference:  Indeed, French President Nicolas Sarkozy’s government just announced one.
+Prediction: In fact, the Government of French President Nicolas Sarkozy has just announced a plan for the devaluation of the fiscal currency.
+
+[20]
+Chinese:    若有些人担心财政货币贬值将会与欧元规则相互冲突，则可以援引德国举例即可。 德国政府2007年实施了一项类似的计划（没有公开说明 ） ， 将增值税从16％提高到19 ％ ， 将雇主对社会保险的贡献率从6.5％削减至4.2 ％ 。
+Reference:  And concerns that a fiscal devaluation will conflict with euro rules can be met by simply pointing out that Germany’s government carried one out in 2007, though by another name, when it raised VAT from 16% to 19% and cut employers’ contribution to social insurance, from 6.5% to 4.2%.
+Prediction: If some fear that the devaluation of the fiscal currency will conflict with the euro’s rules, one could cite the example of Germany. The German government implemented a similar program in 2007 (without a public statement), raising the value added tax from 16% to 19%, and reducing the employer’s contribution to social security from 6.5% to 4.2%.
+
+[21]
+Chinese:    总之，除了推行汇率贬值以外，还存在其他解决南欧短期竞争力问题的简单财政方案。
+Reference:  In short, there are simple fiscal alternatives to exchange-rate devaluation that can address southern Europe’s short-term competitiveness problems.
+Prediction: In sum, there are other simple fiscal solutions to the short-term competitiveness of Southern Europe, in addition to the application of exchange rate depreciations.
+
+[22]
+Chinese:    可以肯定的是，可行的财政货币贬值方案必须将规模控制在一定限度内。
+Reference:  To be sure, feasible fiscal devaluations would be limited in size.
+Prediction: It is certain that a viable programme of fiscal currency devaluation must keep its size within a certain limit.
+
+[23]
+Chinese:    但是，伴随着债务重组，宽松的货币政策，欧洲央行的资金流动性支持及非常必要的结构性改革，这些可行的财政货币贬值方案，可以在欧元区不解体，并且不会导致紧缩引起的严重经济衰退的前提下，帮助那些经济困难的国家踏上正轨。
+Reference:  But, together with debt restructuring, accommodative monetary policy, liquidity support from the European Central Bank, and much-required structural reforms, they can help to put these troubled economies on a sound footing without a euro breakup or a major austerity-induced recession.
+Prediction: But, with debt restructuring, loose monetary policy, capital liquidity of the European Central Bank, and much-needed structural reforms, viable fiscal-currency depreciation options can help countries with economic difficulties to get on track without the collapse of the eurozone and without leading to a severe economic recession caused by austerity.
+
+[24]
+Chinese:    一位中国的异议人士
+Reference:  A Dissident in China
+Prediction: A Chinese dissident.
+
+[25]
+Chinese:    东京 — — 对于中国而言， 2009 年可是一个好年头。
+Reference:  TOKYO – 2009 was a good year for China. The Chinese economy still roared ahead in the midst of a worldwide recession.
+Prediction: TOKYO – For China, 2009 is a good year.
+
+[26]
+Chinese:    在全球一片衰退的景象之中，中国经济却独领风骚、大步前进；美国总统贝拉克·奥巴马在他的中国之行中，表现的更像是一位置身帝国宫廷内的有求之人，而非一名全球最强超级大国的元首；甚至连关于气候变化问题的哥本哈根峰会，都以令中国称心如意的方式落幕：它未能令中国或其他任何一个工业国承担起重大的减排义务，而此罪责却由美国承担。
+Reference:  American President Barack Obama visited China, more in the spirit of a supplicant to an imperial court than the leader of the world’s greatest superpower. Even the Copenhagen summit on climate change ended just the way China wanted: failure in its attempt to commit China, or any other industrial nation, to making significant cuts in carbon emissions, with the United States getting the blame.
+Prediction: In the face of a global recession, China’s economy has taken the lead and made great strides; in his trip to China, US President Barack Obama was more like a man in need in an imperial palace than a head of the world’s most powerful super-Power; and even the Copenhagen summit on climate change had ended in a way that China would call itself to account: it had failed to commit China or any other industrial country to a major emission reduction obligation, and the United States was responsible for that.
+
+[27]
+Chinese:    共产党领导下的中国政府有充分的理由感到自信。
+Reference:  The Chinese government, under the Communist Party, has every reason to feel confident.
+Prediction: The Chinese Government, led by the Communist Party, has every reason to feel confident.
+
+[28]
+Chinese:    这样，为何一位儒雅的原文学教授（刘晓波）却仅仅因为公开倡导言论自由及一党统治的终结，而要被判处十一年徒刑呢？
+Reference:  So why did a gentle former literature professor named Liu Xiaobo have to be sentenced to 11 years in prison, just because he publicly advocated freedom of expression and an end to one-party rule?
+Prediction: Why, then, is a Confucian professor of originals (Lu Xiaobo) sentenced to 11 years' imprisonment merely for publicly advocating freedom of expression and the end of one-party rule?
+
+[29]
+Chinese:    刘晓波是 2008 年的请愿文件 — — 《 08 宪章》的共同作者，这份呼吁尊重基本权利的文件，业已征得数千中国人的签名。
+Reference:  Liu was co-author in 2008 of a petition, Charter 08, signed by thousands of Chinese, calling for basic rights to be respected.
+Prediction: Liu Xiaobo was co-author of the 2008 petition – Charter 08 – a document calling for respect for fundamental rights that has been signed by thousands of Chinese.
+
+[30]
+Chinese:    刘晓波并非是一名暴力叛乱分子，他在发表于互联网的文章中所表达的观点，完全不带戾气。
+Reference:  Liu is not a violent rebel. His opinions, in articles published on the Internet, are entirely peaceful.
+Prediction: Liu Xiaobo is not a violent rebel, and the views he expressed in articles published on the Internet are totally unconscionable.
+
+[31]
+Chinese:    即便如此，他还是因“煽动颠覆国家政权罪”而被判入狱。
+Reference:  Yet he was jailed for “inciting subversion of state power.”
+Prediction: Even so, he was sentenced to prison for “incitement to overthrow the State's regime”.
+
+[32]
+Chinese:    认为刘晓波或有能力颠覆中共巨大权力的观点，显然是一派胡言。
+Reference:  The notion that Liu might be capable of subverting the immense power of the Communist Party of China is patently absurd.
+Prediction: The view that Liu Xiaobo is capable of subverting the great powers of the Communist Party is clearly a lie.
+
+[33]
+Chinese:    然而当局却明显相信：自己必须杀一儆百，以防他人发表类似观点。
+Reference:  And yet the authorities clearly believe that they had to make an example of him, to prevent others from expressing similar views.
+Prediction: However, the authorities are clearly convinced that they must take an example in order to prevent others from expressing similar views.
+
+[34]
+Chinese:    为何对于一个看似稳固的政权来说，那些纯粹的观点、或者甚至是和平的请愿活动，却被认为是如此危险呢？
+Reference:  Why does a regime that appears to be so secure consider mere opinions, or even peaceful petitions, so dangerous?
+Prediction: Why are those pure views, or even peaceful petitions, considered so dangerous for a seemingly stable regime?
+
+[35]
+Chinese:    这或许是因为该政权并不像它看上去那般坦然无惧。
+Reference:  Perhaps because the regime does not feel as secure as it looks.
+Prediction: This may be because the regime is not as open-minded as it looks.
+
+[36]
+Chinese:    若失去了合法性，任何政府都无法自信地施行统治。
+Reference:  Without legitimacy, no government can rule with any sense of confidence. There are many ways to legitimize political arrangements.
+Prediction: If legitimacy is lost, no Government can govern confidently.
+
+[37]
+Chinese:    为政治制度赋予合法性的方式多种多样：自由民主制只是近来的一种创新而已；通常由君权神授为依托的世袭君主制，曾在历史上大行其道；而某些现代的独裁者（如罗伯特·穆加贝 ） ， 则是以民族解放斗士这一资历作为其统治的依据。
+Reference:  Hereditary monarchy, often backed by divine authority, has worked in the past. And some modern autocrats, such as Robert Mugabe, have been bolstered by their credentials as national freedom fighters.
+Prediction: The ways in which legitimacy is given to the political system are varied: liberal democracy is only a recent innovation; the inherited monarchy, often mandated by the monarchy, has done its best in history; and certain modern dictators, such as Robert Mugabe, base their rule on the qualification of a national liberation fighter.
+
+[38]
+Chinese:    中国在过去的一个世纪内发生了巨大的变化，但在某一个方面，它却依然如故：宗教式的政治观念仍在统御着这个国家。
+Reference:  China has changed a great deal in the last century, but it has remained the same in one respect: it is still ruled by a religious concept of politics.
+Prediction: China has changed dramatically over the past century, but in one way or another it remains the same: religious political ideas continue to dominate the country.
+
+[39]
+Chinese:    这种观念的合法性并非基于互谅互让、讨价还价以及做出必要的妥协；而这些行为构成了经济式政治观念的基础，其中，自由民主制度的支柱便是一例。
+Reference:  Legitimacy is not based on the give and take, the necessary compromises, and the wheeling and dealing that form the basis of an economic concept of politics such as that which underpins liberal democracy.
+Prediction: The legitimacy of this concept is not based on mutual accommodation, bargaining and the necessary compromises; these acts form the basis of economic-type political ideas, for example, the pillars of a liberal democracy.
+
+[40]
+Chinese:    相反，宗教式政治的基石是一种以意识形态正统性为体现的、由上而下强加于民的共有信念。
+Reference:  Instead, the foundation of religious politics is a shared belief, imposed from above, in ideological orthodoxy.
+Prediction: On the contrary, the cornerstone of religious politics is a shared conviction, embodied in ideological orthodoxy, imposed from the top down.
+
+[41]
+Chinese:    在帝制中国，这便意味着儒家的正统观念。
+Reference:  In imperial China, this meant Confucian orthodoxy.
+Prediction: In an imperial China, this means a Confucian orthodoxy.
+
+[42]
+Chinese:    儒家邦国的理想状态即为“和谐 ” 。
+Reference:  The ideal of the Confucian state is “harmony.”
+Prediction: The ideal state of the country is “harmonization”.
+
+[43]
+Chinese:    如果所有人都能遵从一套包括行为道德准则在内的特定信念的话，冲突就将消失。
+Reference:  If all people conform to a particular set of beliefs, including moral codes of behavior, conflicts will disappear.
+Prediction: Conflict will disappear if all are able to comply with a specific set of beliefs, including ethical codes of conduct.
+
+[44]
+Chinese:    在这种理想体系之中，被统治者正如子女遵从父亲一般、自然而然地听命于统治者。
+Reference:  The ruled, in this ideal system, will naturally obey their rulers, just as sons obey their fathers.
+Prediction: In such an ideal system, the governed, like their children, obey the father and, naturally, the rulers.
+
+[45]
+Chinese:    在二十世纪前期数十年的种种革命之后，儒家思想被中国式的共产主义所取代。
+Reference:  After the various revolutions in the early decades of the twentieth century, Confucianism was replaced by a Chinese version of Communism.
+Prediction: Following the revolutions of the early decades of the twentieth century, Confucian ideology was replaced by Chinese-style communism.
+
+[46]
+Chinese:    对于中国的知识分子而言，马克思主义颇具吸引力，这一方面是因为它带着书卷的气息，引入了一套现代道德正统观念；另一方面则是因为马克思主义与儒家学说一样，都建立在一种关于完美和谐的诺言基础之上：在共产主义乌托邦内，最终将再无利益的冲突。
+Reference:  Marxism appealed to Chinese intellectuals, because it was bookish, introduced a modern moral orthodoxy, and was based, like Confucianism, on a promise of perfect harmony. Ultimately, in the Communist utopia, conflicts of interests would melt away.
+Prediction: For Chinese intellectuals, Marxism is attractive because it brings in a modern set of moral orthodox concepts, with its volume. On the other hand, Marxism, like Confucianism, is based on a promise of perfect harmony: a conflict in the communist utopia, which will ultimately have no interest.
+
+[47]
+Chinese:    毛泽东主席的统治，便是对中国帝制体系与共产主义极权制度诸元素的结合。
+Reference:  Chairman Mao’s rule combined elements of the Chinese imperial system with Communist totalitarianism.
+Prediction: President Mao’s rule is a combination of elements of the Chinese imperial system and the communist totalitarian system.
+
+[48]
+Chinese:    然而，这种正统思想注定也将消亡。
+Reference:  This orthodoxy, however, was also destined to fade away.
+Prediction: However, this orthodox idea is doomed to die.
+
+[49]
+Chinese:    很少有中国人仍旧是马克思主义的忠实信徒，甚至在共产党高层内部，情况也是如此。
+Reference:  Few Chinese, even in the top ranks of the Communist Party, are convinced Marxists anymore.
+Prediction: Very few Chinese remain faithful to Marxism, even within the high-level Communist Party.
+
+[50]
+Chinese:    这种状况留下了一个意识形态真空，它在上世纪八十年代被贪婪、腐化以及玩世不恭所快速占据。
+Reference:  This left an ideological vacuum, swiftly filled in the 1980’s by greed, cynicism, and corruption.
+Prediction: This situation left an ideological vacuum that was rapidly occupied in the 1980s by greed, corruption and cynicism.
+
+[51]
+Chinese:    这场危机催生了遍及中国全境的示威活动，它们被笼而统之地冠以“天安门事件”之名。
+Reference:  Out of this crisis came the demonstrations all over China, collectively known as “Tiananmen.”
+Prediction: The crisis has led to demonstrations throughout China, which have been caged under the name of the “Tiananmen Gate”.
+
+[52]
+Chinese:    刘晓波在 1989 年，便身为学生针对官员腐化、并要求获得更大自由的抗议活动之积极代言人。
+Reference:  Liu Xiaobo was an active spokesman in 1989 for the student protests against official corruption and in favor of greater freedom.
+Prediction: Liu Xiaobo was the active voice of students in 1989 in protests against officials who corrupted and demanded greater freedom.
+
+[53]
+Chinese:    在天安门的血腥镇压行动后不久，一种新的正统思想取代了中国式马克思主义的地位，这便是中国的民族主义。
+Reference:  Soon after the bloody crackdown on Tiananmen, a new orthodoxy replaced Chinese Marxism: Chinese nationalism.
+Prediction: Shortly after Tiananmen ' s bloody crackdown, a new orthodox ideology replaced the Chinese Marxist status, which was China ' s nationalism.
+
+[54]
+Chinese:    只有一党统治，方可确保中国能继续崛起，并为数百年的民族屈辱史画上句号；共产党代表着中国的大国宿命。
+Reference:  Only one-party rule would guarantee the continuing rise of China and put an end to centuries of national humiliation.
+Prediction: Only a one-party rule would ensure that China would continue to rise and end its centuries-old history of ethnic humiliation; the Communist Party represented the destiny of China’s great powers.
+
+[55]
+Chinese:    对���观点心存疑虑已不单是一种错误，还是一种不爱国、甚至“反华”的表现。
+Reference:  The Communist Party represented China’s destiny as a great power. To doubt this was not just mistaken, but unpatriotic, even “anti-Chinese.”
+Prediction: Doubts about views are not only a mistake, but also an unpatriotic and even “anti-China” expression.
+
+[56]
+Chinese:    以此看来，刘晓波的批判观点的确是颠覆性的。
+Reference:  From this perspective, Liu Xiaobo’s critical views were indeed subversive.
+Prediction: In this sense, Liu Xiaobo's critical view is indeed subversive.
+
+[57]
+Chinese:    这些观点为官方正统思想打上了问号，也由此对国家政权的合法性提出了质疑。
+Reference:  They cast doubt on the official orthodoxy, and thus on the legitimacy of the state.
+Prediction: These views cast a question mark on official orthodoxy and thus called into question the legitimacy of the national regime.
+
+[58]
+Chinese:    许多人对于中国政府为何拒绝在 1989 年与学生进行谈判、或对如今的批判者做出一些迁就而感到惊讶，这恰恰是误解了宗教式政治的本质。
+Reference:  To wonder, as many have, why the Chinese regime refused to negotiate with the students in 1989 – or to find some accommodation with its critics today – is to misunderstand the nature of religious politics.
+Prediction: Many are surprised by the Chinese Government’s refusal to negotiate with students in 1989 or to make some accommodation for today’s critics, which is precisely a misunderstanding of the essence of religious politics.
+
+[59]
+Chinese:    谈判、妥协与迁就皆为经济式政治的特征， 这种政治模式可以就事论事； 与之形成鲜明对比的是，那些根据共有信念施行统治的人，是无力承担谈判之代价的，因为谈判行为将会对信念本身造成伤害。
+Reference:  Negotiation, compromise, and accommodation are the marks of economic politics, where every deal has its price. By contrast, those who rule according to a shared belief cannot afford to negotiate, for that would undermine the belief itself.
+Prediction: Negotiations, compromises and accommodations are all features of economic politics, a political model that can be case-by-case; in contrast, those who rule on the basis of shared beliefs are unable to bear the cost of negotiations, because the conduct of the negotiations will harm the beliefs themselves.
+
+[60]
+Chinese:    这并非意味着经济式政治观念对于中国人来说，是一种完全陌生的模式；就此而言，这也不是指奉行民主制度的西方就不知宗教式政治观念为何物。
+Reference:  This is not to say that the economic concept of politics is utterly strange to the Chinese – or, for that matter, that the religious notion of politics is unknown in the democratic West.
+Prediction: This does not mean that an economic-type political concept is a totally unfamiliar model for Chinese; nor, in this context, does it mean that the West, which pursues democracy, knows nothing about religious-type political ideas.
+
+[61]
+Chinese:    然而在中国，人们对于正统观念的坚持，依旧强大到使其足可继续作为对政治批评者的默认防范方式之地步。
+Reference:  But the insistence on orthodoxy is still sufficiently strong in China to remain the default defense against political critics.
+Prediction: In China, however, the insistence on orthodox attitudes remains strong enough to allow it to continue as a default precaution for political critics.
+
+[62]
+Chinese:    这些情况可以发生转变。
+Reference:  These things can change.
+Prediction: These conditions can change.
+
+[63]
+Chinese:    诸如韩国、台湾以及日本等其他的儒家社会，如今都已拥有繁荣的自由民主制度，人们没有理由相信：中国不可能经历这种转型。
+Reference:  Other Confucian societies, such as South Korea, Taiwan, and Japan, now have thriving liberal democracies, and there is no reason to believe that such a transition is impossible in China.
+Prediction: Other Confucian societies, such as South Korea, Taiwan and Japan, now enjoy a prosperous liberal democracy, and there is no reason to believe that China cannot experience such a transition.
+
+[64]
+Chinese:    但外部压力不太可能带来这种变革。
+Reference:  But external pressure is unlikely to bring it about.
+Prediction: But external pressure is unlikely to bring about such change.
+
+[65]
+Chinese:    包括我在内的许多外国人士，都已在针对刘晓波被判入狱一事的抗议信上签字。
+Reference:  Many non-Chinese, including me, have signed a letter of protest against the jailing of Liu Xiaobo.
+Prediction: Many foreign figures, including me, have signed a letter of protest against Liu Xiaobo ' s imprisonment.
+
+[66]
+Chinese:    人们只是希望此举能聊表慰藉，并给予那些与刘晓波志同道合的中国人以道义上的鼓舞；但对于那些笃信当前中国民族主义正统思想的人士而言，此举不太可能令其受到震动。
+Reference:  One hopes that this will lend comfort to him, and give a moral boost to Chinese who share his views. But it is unlikely to impress those who believe in the current orthodoxy of Chinese nationalism.
+Prediction: It is only to be hoped that it will serve as a source of comfort and a moral inspiration for those Chinese who share Liu Xiaobo Chi; but it is unlikely that it will shake those who believe in the current Chinese nationalist orthodoxy.
+
+[67]
+Chinese:    在中国从宗教式政治的控制下获得解放之前，刘晓波的理念不太可能生根。
+Reference:  Until China is released from the grip of religious politics, Liu’s ideals are unlikely to take root.
+Prediction: Until China is liberated from religious politics, Liu Xiaobo ' s philosophy is unlikely to take root.
+
+[68]
+Chinese:    对于中国（实际上也对世界其他国家）而言，这可不是个好兆头。
+Reference:  This does not bode well for China, or, indeed, for the rest of the world.
+Prediction: This does not augur well for China (and indeed for the rest of the world).
+
+[69]
+Chinese:    不由分说的禁毒战争
+Reference:  A Drug War on Auto-Pilot
+Prediction: There's no point in talking about the war on drugs.
+
+[70]
+Chinese:    海牙 — — 阿富汗战争迄今为止已经打了十年，在很多人看来或许仍没有结束的迹象，但拉丁美洲却忍受了更为漫长的战争，而且近来血腥程度甚至愈演愈烈： 这就是打击贩毒的“战争 ” 。
+Reference:  THE HAGUE – The war in Afghanistan, now approaching its tenth year, may seem to many to have no end in sight, but Latin America has endured an even longer fight, one that has recently become much more bloody: the “war” against drug trafficking.
+Prediction: The Hague – Ten years have passed since the war in Afghanistan, and it may seem to many that there is still no sign of an end to it, but Latin America has endured a much longer war, and in recent times the level of bloodshed has even increased: the “war” against drug trafficking.
+
+[71]
+Chinese:    这场战争已经变得如此生硬 — — 如此暴力 — — 以致于拉美很多人现在感到惊讶，弄不清病理性成瘾更为严重的究竟是哪一方。
+Reference:  So rote – and so violent – has that war become that many people in Latin America now wonder which side is suffering the more pathological addiction.
+Prediction: The war has become so hard – so violent – that many in Latin America are now surprised to know which side is more addicted to rationality.
+
+[72]
+Chinese:    建设“更强大，适应力更强的社会”是美国国务卿希拉里·克林顿宣传能够阻止与毒品贩运有关谋杀上升趋势的新战略 — — 泄露出来的墨西哥政府报告统计2006年以来与贩毒有关的谋杀已经超过 22,000起。
+Reference:  The new strategy that US Secretary of State Hillary Clinton has been promoting to staunch the upward trend of narco-trafficking-related murders – which leaked Mexican government reports put at more than 22,000 since late 2006 – is to build “stronger, more resilient communities.”
+Prediction: Building “a stronger and more resilient society” is a new strategy that US Secretary of State Hillary Clinton has promoted to stop the rising trend in murders related to drug trafficking – the government of Mexico has reported more than 22,000 murders related to drug trafficking since 2006.
+
+[73]
+Chinese:    不断扩张的墨西哥边境小镇华雷斯市现在已经成为全世界的杀人之都，肯定应该高居名单的榜首位置。
+Reference:  Ciudad Juárez, a sprawling Mexican border town that is now the homicide capital of the world, would have to be high on the list.
+Prediction: The expanding Mexican border town of Ciudad Juárez has now become a killing capital in the world and should certainly be at the top of the list.
+
+[74]
+Chinese:    华雷斯市和得克萨斯州的艾尔帕索县通过四座桥梁和难以数计的隧道和排水沟连接在一起。
+Reference:  Four bridges and innumerable tunnels and drainage canals connect Ciudad Juárez and El Paso, Texas.
+Prediction: Ciudad Juárez and El Paso County, Texas, are connected by four bridges and countless tunnels and drains.
+
+[75]
+Chinese:    具有竞争关系的卡特尔拼命为争夺广场的控制权互相残杀并屠杀安全部队，广场是人们对任何贩毒路线的称谓。
+Reference:  Rival cartels sparring for control of a plaza, the name given to any trafficking route, butcher each other and the security forces.
+Prediction: Competing cartels struggle to control the square, which is referred to as any drug-trafficking route, kill each other and kill the security forces.
+
+[76]
+Chinese:    显然愿意加入这场屠杀的无业年轻男性大有人在。
+Reference:  There is apparently no shortage of young, unemployed men willing to join the carnage.
+Prediction: There are apparently large numbers of unemployed young men who are willing to join the massacre.
+
+[77]
+Chinese:    不过解决像华雷斯这样一座城市根深蒂固的社会和经济问题比派8，000名手持突击步枪的士兵占据这座小城的街道要困难得多。
+Reference:  Addressing the deep-seated social and economic problems of a city like Juárez, however, is a lot harder than flooding its streets with 8,000 soldiers carrying assault rifles.
+Prediction: However, solving the deep-rooted social and economic problems of a city such as Ciudad Juárez is much more difficult than sending 8,000 soldiers armed with assault rifles to occupy the streets of the small city.
+
+[78]
+Chinese:    在这方面，墨西哥总统费利佩·卡尔德龙继续忠实于玻利维亚、哥伦比亚或秘鲁等国禁毒战争此前写好的电影脚本，这些国家政府依靠武力和引渡来平息美国的怒气，惩罚那些最没有发言权和影响力的穷人。
+Reference:  Mexican President Felipe Calderón has, in this respect, remained faithful to the script written in previous theaters in the drug war, whether in Bolivia, Colombia, or Peru, where governments have used military force and extradition to placate the US and punish those with the least voice and influence.
+Prediction: In this regard, the President of Mexico, Felipe Calderón, continues to be faithful to the scripts of films written before the war on drugs in Bolivia, Colombia or Peru, where Governments rely on force and extradition to calm the anger of the United States and punish the poor, who have the least voice and influence.
+
+[79]
+Chinese:    但奥巴马政府形容从安第斯山脉流向美国边境的暴力和国家腐败时所用的语言正开始抓住毒品问题的全新思维。
+Reference:  But the language used by the Obama administration to describe the violence and state corruption that snakes from the Andes to the US border is starting to capture new thinking on narcotics.
+Prediction: But the language used by the Obama administration to describe violence and State corruption from the Andes to the American border is beginning to capture the new thinking of the drug problem.
+
+[80]
+Chinese:    值得一提的是三位前拉美总统，墨西哥排名第二的富翁里卡多·萨利纳斯以及阿根廷最高法院已经批评禁毒战争是一场显而易见的失败，它拉低了房地产价格、推升毒品产量，并对弱国造成了破坏。
+Reference:  Three former Latin American presidents, Mexico’s second richest man, Ricardo Salinas, and the Supreme Court of Argentina, among others, have criticized the war on drugs as a manifest failure that has lowered street prices, fueled production, and undermined weak states.
+Prediction: It is worth mentioning that three former Latin American Presidents, Mexico's second-largest billionaire, Ricardo Salinas, and the Argentine Supreme Court have criticized the war on drugs as an obvious failure that has brought down real estate prices, boosted drug production and damaged weak countries.
+
+[81]
+Chinese:    更令人惊奇的是，玻利维亚和厄瓜多尔两国总统都是禁毒战争所忽略问题的直接受害者。
+Reference:  More strikingly, both Bolivia and Ecuador are governed by presidents who suffered directly from the collateral insensitivities of the war on drugs.
+Prediction: It was even more surprising that the Presidents of Bolivia and Ecuador were direct victims of the problems that had been overlooked in the war on drugs.
+
+[82]
+Chinese:    玻利维亚总统埃沃·莫拉莱斯在一场消灭古柯作物的残酷运动中崛起为这个国家古柯种植者的领袖，这场运动就是所谓的尊严计划。
+Reference:  Bolivia’s Evo Morales rose to prominence as leader of the country’s coca growers during a brutal campaign to wipe out their crops, the so-called Dignity Plan.
+Prediction: The President of Bolivia, Evo Morales, emerged as the leader of the country's coca growers in a brutal campaign to eliminate coca crops, a so-called dignity plan.
+
+[83]
+Chinese:    而厄瓜多尔总统拉斐尔·科雷亚的父亲在这位未来的领袖只有五岁时因走私毒品而被捕入狱。
+Reference:  Ecuadoran President Rafael Correa’s father was jailed for smuggling drugs to the US when the future leader was five years old.
+Prediction: The father of President Rafael Correa of Ecuador was arrested and imprisoned for smuggling drugs when the future leader was only five years old.
+
+[84]
+Chinese:    与这些领袖一样对无非法毒品世界目标抱有矛盾心理的还有欧盟，它过去几十年来已经放松了对毒品消费的限制。
+Reference:  These leaders’ profound ambivalence toward the goal of a world free of illegal drugs is shared by the European Union, where restrictions on narcotics consumption have slackened over the past decade.
+Prediction: Along with those leaders, there is also the European Union, which has eased its restrictions on drug consumption over the past decades, in contradiction to the goal of a world free of illicit drugs.
+
+[85]
+Chinese:    此外，之前的三任美国总统都已经承认或多或少吸食过非法的精神刺激药物，而据联合国统计，有七百万美国人都是常规的可卡因使用者。
+Reference:  The past three US presidents, furthermore, have all admitted to consuming – to one extent or another – illegal psychoactive substances, while seven million Americans, according to the United Nations, are regular cocaine users.
+Prediction: In addition, three former Presidents of the United States had recognized that illicit psychostimulants were more or less consumed, while, according to the United Nations, seven million Americans were regular cocaine users.
+
+[86]
+Chinese:    但禁毒执法上层建筑的惯性（在美国和欧盟价值均达到400亿美元）在对毒品和卡特尔所造成“威胁”根深蒂固的恐惧的推动下，似乎一而再、再而三地将政策推向不由分说镇压的一成不变的选择。
+Reference:  But the inertia of a bureaucratic drug-enforcement superstructure (worth approximately $40 billion each in the US and the EU), sustained by a deep-seated fear of the “threat” posed by drugs and cartels, appears to push policy repeatedly towards the familiar option of repressive auto-pilot.
+Prediction: But the inertia of the top-level structure of drug law enforcement (valued at $40 billion in both the United States and the European Union), driven by the deep-rooted fear of “threats” posed by drugs and cartels, seems to have pushed policy again and again towards a static option that cannot be justified by mere repression.
+
+[87]
+Chinese:    比如，美国对墨西哥打击卡特尔运动的支持似乎牢不可破，国会显然已经做好准备为又一年的军事和安全设施升级提供3亿美元的经费。
+Reference:  For example, US support for Mexico’s campaign against the cartels looks set in stone, with Congress apparently ready to provide $300 million for another year of military and security upgrading.
+Prediction: For example, United States support for the anti-cartel campaign in Mexico seems impregnable, and Congress is clearly ready to fund another year of military and security upgrades of $300 million.
+
+[88]
+Chinese:    人们计划在哥伦比亚建设七座联合军事设施，并且对垄断作物熏蒸市场的美国私人承包商的支持很可能也不会动摇。
+Reference:  In Colombia, seven new joint military installations are planned, and support for US private contractors who have cornered the market in crop fumigation presumably will not be interrupted.
+Prediction: There are plans to build seven joint military facilities in Colombia, and support for private United States contractors that monopolize the market for crop fumigation is likely not to waver.
+
+[89]
+Chinese:    尽管如此，随着历经四十年的禁毒大厦缺点逐渐暴露，认定使用毒品的风险大于镇压所造成的破坏已经越来越难。
+Reference:  Nevertheless, as the flaws in the four-decade-old edifice of counter-narcotics become more visible, it is increasingly difficult to regard the risks of drug use as being greater than the damage done by repression.
+Prediction: Nevertheless, it has become increasingly difficult to determine that the risk of drug use is greater than the damage caused by repression, as the shortcomings of the anti-drug edifice, which have been exposed for 40 years, have gradually become apparent.
+
+[90]
+Chinese:    禁毒措施促成了毒品价格上涨，从安第斯加工厂运到欧洲的可卡因令人震惊的上涨15,000 % 。
+Reference:  Prohibition hikes the mark-up on prices – an astounding 15,000% in the case of cocaine traveling to Europe from Andean processing facilities.
+Prediction: Counter-narcotics measures have contributed to an increase in drug prices, with an alarming increase of 15,000 per cent in cocaine transported from Andean processing plants to Europe.
+
+[91]
+Chinese:    在禁毒战争关注摧毁卡特尔及其主要人物的同时，却顽强地促进了在合法贸易流动的夹缝中生存并对价格激励作出反应的毒品市场的健康。
+Reference:  While the war on drugs focuses on bringing down cartels and their kingpins, it perversely aids the health of their markets, which nestle within legitimate trade flows and respond to price incentives.
+Prediction: While the anti-drug war focused on destroying cartels and their main figures, it was persistently contributing to the health of drug markets that survived and responded to price incentives in the middle of legitimate trade flows.
+
+[92]
+Chinese:    在年内接受墨西哥杂志《Proceso》采访时，规模庞大的锡那罗亚卡特尔的二号人物伊斯梅尔•尚巴达明确指出 ： “ 毒品问题涉及成百上千万人口。
+Reference:  Interviewed by the Mexican magazine Proceso this year, the second-in-command of the giant Sinaloa cartel, Ismael Zambada, made the point clearly: “The narco problem involves millions of people.
+Prediction: In an interview with the Mexican magazine Proceso this year, the second figure of the huge Sinaloa cartel, Ismail Shambad, made it clear: “The drug problem involves millions of people.
+
+[93]
+Chinese:    这样的问题怎么控制？
+Reference:  How do you control it?
+Prediction: How do you control a problem like this?
+
+[94]
+Chinese:    领头的人可以被监禁、杀死或者引渡，但顶替者已经在周围徘徊等候。 ”
+Reference:  The capos can be jailed, killed, or extradited, but their replacements are already wandering around.”
+Prediction: The leader may be imprisoned, killed or extradited, but the replacement is already waiting around.”
+
+[95]
+Chinese:    拉美强大贩毒集团的出现究其原因并非是由于某些个人的极端邪恶。
+Reference:  The emergence of Latin America’s powerful drug mafias cannot be traced to the radical evil of certain individuals.
+Prediction: The emergence of a powerful drug trafficking group in Latin America was not due to the extreme evil of certain individuals.
+
+[96]
+Chinese:    这些人是在一场由滥用权力、反复无常和充满官僚气息战争造成的严重不公的社会条件下自然产生的。
+Reference:  These people emerged under conditions created in deeply inequitable societies by a misapplied, inconsistent, and bureaucratic war.
+Prediction: These people are born naturally in the context of a society characterized by gross injustice caused by abuse of power, volatility and bureaucratic wars.
+
+[97]
+Chinese:    事实上，墨西哥的齐塔复仇女神最初接受过20世纪90年代向选定的特种部队士兵提供的反暴动训练，而后逃离了特种部队。
+Reference:  Indeed, the furies of the Zetas in Mexico originate in the counter-insurgency training provided in the 1990’s to a select group of special-forces soldiers, who later deserted.
+Prediction: In fact, the Mexican goddess of revenge, Chita, was initially trained in counter-insurgency by selected special forces soldiers in the 1990s and then escaped from the special forces.
+
+[98]
+Chinese:    近年来齐塔人招募的明星新锐大多具有危地马拉军队的特种部队背景，这支部队一种臭名昭著的入门技术是咬掉一只活鸡的头颅。
+Reference:  The Zetas’ star recruits in recent years have come from the Guatemalan military’s special forces, whose infamous induction technique involved biting off the head of a live chicken.
+Prediction: Most of the new stars recruited by the Zetas in recent years have the background of the Guatemalan army's special forces, a notorious entry technique to bite off the head of a live chicken.
+
+[99]
+Chinese:    与此同时，在牙买加以及中美洲的农村前沿，毒枭正在扮演着穷苦人的救世主兼英雄的角色。
+Reference:  Meanwhile, in Jamaica and across the rural outposts of Central America, drug lords have become benefactors and heroes to the poor.
+Prediction: At the same time, in the rural frontier of Jamaica and Central America, drug lords are playing the role of savior and hero for the poor.
+
+[100]
+Chinese:    认真重新考察局势和非法毒品管理状况的时候到了，可以考虑实行有选择的合法化，对这个市场重新进行公共健康而不是刑事方面的考量。
+Reference:  It is time for serious reconsideration of the status and regulation of illegal drugs, pointing to selective legalization, as well as reclassification of the market as a public-health, rather than a criminal, concern.
+Prediction: The time had come to take a serious look at the situation and the management of illicit drugs, and to consider selective legitimization and the reopening of the market to public health rather than criminal considerations.
+
+[101]
+Chinese:    现在，美洲各国的决策者正悄悄向显而易见的解决方案靠拢。
+Reference:  For now, policymakers across the Americas are tiptoeing towards the obvious.
+Prediction: Policy makers in the Americas are now quietly moving towards visible solutions.
+
+[102]
+Chinese:    全球“新政 ” ？
+Reference:  A Global "New Deal"?
+Prediction: Global New Deal?
+
+[103]
+Chinese:    雅典—IMF终于承认它严重低估了紧缩给欧盟增长率带来的伤害，这表明纠正2008—2009年金融危机后发生的债务危机的根源的“正统”药方起到了弄巧成拙的效果。
+Reference:  ATHENS – The International Monetary Fund’s belated admission that it significantly underestimated the damage that austerity would do to European Union growth rates highlights the self-defeating character of “orthodox” recipes to address the causes of the debt crisis that followed the financial crash of 2008-2009.
+Prediction: ATHENS – The IMF has finally admitted that it has seriously underestimated the harm that austerity has done to EU growth rates, indicating that the “orthodox” prescription to correct the root causes of the debt crisis that followed the 2008-2009 financial crisis has had a cumbersome effect.
+
+[104]
+Chinese:    传统智慧认为，就个别国家（或一组国家）而言，整合其财政意味着降低利率、货币贬值和改善贸易处境。
+Reference:  Conventional theory suggests that a single country (or group of countries) consolidating its finances can expect lower interest rates, a weaker currency, and an improved trade position.
+Prediction: Traditional wisdom suggests that, in the case of individual countries (or groups of countries), fiscal consolidation implies lower interest rates, currency devaluations and improved trade conditions.
+
+[105]
+Chinese:    但是，由于这无法同时在所有主要经济体发生 — — 一个国家（或一组国家）的紧缩意味着其他国家产品需求下降 — — 这些政策最终会导致以邻为壑局面。
+Reference:  But, because this cannot happen for all major economies simultaneously – one country’s (or group of countries’) austerity implies less demand for other countries’ products – such policies eventually lead to beggar-thy-neighbor situations.
+Prediction: However, because this cannot occur simultaneously in all major economies – where austerity in one country (or a group of countries) implies a decline in demand for other countries’ products – these policies will eventually lead to a state of privation with neighbours.
+
+[106]
+Chinese:    事实上，凯恩斯所反对的正是这一动态，正是它导致了20世纪30年代悲惨的大萧条。
+Reference:  Indeed, it was this dynamic – against which John Maynard Keynes fought – that made the Great Depression of the 1930’s so grim.
+Prediction: Indeed, it was precisely this dynamic that Keynes opposed, which led to the tragic Great Depression of the 1930s.
+
+[107]
+Chinese:    当今问题的一个组成部分是发达国家私人需求（特别是家庭消费）不振，不足以补偿紧缩带来的需求损失。
+Reference:  Today’s problems are compounded by a lack of sufficient private demand – particularly household consumption – in the advanced economies to compensate for demand losses stemming from austerity.
+Prediction: An integral part of today ' s problem is the weakness of private demand (especially household consumption) in developed countries, which is not sufficient to compensate for the loss of demand caused by austerity.
+
+[108]
+Chinese:    在过去20年中，消费推动着这些国家的经济增长，其占GDP比重达到了历史新高。
+Reference:  During the last two decades, consumption drove these countries’ economic growth, reaching historically high GDP shares.
+Prediction: Over the past two decades, consumption had driven economic growth in those countries, and its share of GDP had reached an all-time high.
+
+[109]
+Chinese:    此外，美国、德国和日本等主要发达国家面临老龄化、福利国家规模太大等长期财政问题，制约着它们的需求管理能力。
+Reference:  Moreover, major advanced economies, such as the United States, Germany, and Japan, face longer-term fiscal problems in the form of aging populations or oversize welfare states, limiting their capacity to contribute to demand management.
+Prediction: In addition, major developed countries, such as the United States, Germany and Japan, face long-term financial problems such as ageing and too large a welfare State, constraining their capacity to manage their needs.
+
+[110]
+Chinese:    当前的货币宽松政策方向是对的，但到目前为止并没有起到扭转局势的作用。
+Reference:  Recent moves to ease monetary policy have been a step in the right direction; but, so far, they have not proved to be a game changer.
+Prediction: The current monetary easing policy is in the right direction, but it has not so far served to reverse the situation.
+
+[111]
+Chinese:    由于内需成了增长引擎，因此政策应该将资源从投资引向消费。
+Reference:  For domestic demand to act as an engine of growth, policies should shift resources from investment to consumption.
+Prediction: Since domestic demand has become an engine of growth, policies should direct resources away from investment towards consumption.
+
+[112]
+Chinese:    尽管所涉规模巨大，但必须完成，否则就会导致低增长、高失业、全球最贫困人口生活之质量下降。
+Reference:  While the magnitudes involved are huge, they must be attained if an extended period of low growth, high unemployment, and declining living standards among the world’s poorest is to be avoided.
+Prediction: Despite the magnitude of the scale involved, it must be completed, otherwise it would lead to low growth, high unemployment and a decline in the quality of life of the world ' s poorest.
+
+[113]
+Chinese:    应该着力强调国际经济政策协调，以便有效地应对如此规模的变局。
+Reference:  International economic policy coordination should be significantly strengthened in order to deal effectively with changes on such a scale.
+Prediction: Great emphasis should be placed on international economic policy coordination in order to respond effectively to shifts of such magnitude.
+
+[114]
+Chinese:    从欧洲开始。
+Reference:  Start with Europe.
+Prediction: Start with Europe.
+
+[115]
+Chinese:    如今，毫无疑问紧缩和国内改革不足以将欧元区外围国拉出衰退。
+Reference:  It is by now patently obvious that austerity and domestic reforms are not enough to pull the eurozone’s periphery out of deep recession.
+Prediction: There is now no doubt that austerity and domestic reforms are not sufficient to lift the eurozone periphery out of recession.
+
+[116]
+Chinese:    人们越来越意识到当前的政策是失败的，这正在造成社会不满、国内失序和政局动荡，最近结束的意大利选举和希腊改革措施所受到的越来越大的阻力就是明证。
+Reference:  Growing awareness of the failure of current policies is causing social discontent, civil disorder, and political instability, with the recently concluded Italian elections and the growing popular resistance to Greek reform efforts serving as a bellwether.
+Prediction: There is a growing awareness of the failure of current policies, which is creating social discontent, internal disorder and political instability, as evidenced by the increasing resistance to the recently concluded Italian elections and Greek reform measures.
+
+[117]
+Chinese:    要让欧元区外围国回归增长之路，光有结构性改革和财政整合是不够的。
+Reference:  Returning the eurozone’s peripheral economies to the path of growth requires more than structural reforms and fiscal consolidation.
+Prediction: Structural reforms and fiscal consolidation alone are not sufficient if the eurozone periphery is to return to the path of growth.
+
+[118]
+Chinese:    欧元区经济治理制度也必须有彻底的改革，其目标应是重塑金融稳定、降低借贷利率，同时提振外部需求以补偿紧缩措施带来的后果。
+Reference:  It also requires a substantial reform of the monetary union’s system of economic governance, aimed at restoring financial stability and lowering borrowing costs, together with a boost in external demand in order to compensate for the effects of austerity.
+Prediction: The eurozone economic governance system must also be overhauled with the aim of restoring financial stability and lowering borrowing interest rates, while boosting external demand to compensate for the consequences of austerity measures.
+
+[119]
+Chinese:    改革治理意味着向经济联盟迈出一大步：通过欧元债券将欧洲债务集中化；动员足够的救援资金；允许欧洲央行在债券一级市场实施干预；并建立财政和银行联盟。
+Reference:  Reforming governance implies significant progress toward economic unification: centralizing European debt through Eurobonds, mobilizing sufficient rescue funds, allowing the European Central Bank to intervene in the primary bond markets, and establishing both a fiscal and a banking union.
+Prediction: Reforming governance means a major step towards an economic union: centralizing European debt through Eurobonds; mobilizing adequate bailout funds; allowing the ECB to intervene in bond-level markets; and establishing fiscal and banking unions.
+
+[120]
+Chinese:    这似乎是个不可能的任务，因为大部分欧盟成员国都不愿把权力割让给欧洲机构。
+Reference:  This is a tall order, in view of the reluctance of most EU member states to cede competences to European institutions.
+Prediction: This seems to be an impossible task, as most EU member States are reluctant to cede power to European institutions.
+
+[121]
+Chinese:    但欧洲应该坚决地向这一方向迈进。
+Reference:  But Europe should move more decisively in this direction.
+Prediction: But Europe should resolutely move in that direction.
+
+[122]
+Chinese:    否则的话，关于成员国国民债务问题的猜疑就不会停止，这会导致借贷成本维持在与维持经济复苏不相容的水平。
+Reference:  Otherwise, speculation on member states’ national debt will persist, keeping borrowing costs at levels that are inconsistent with the conditions required to sustain economic recovery.
+Prediction: Otherwise, suspicions about the national debt of member countries would not cease, which would result in borrowing costs remaining at levels incompatible with sustaining economic recovery.
+
+[123]
+Chinese:    在外部需求问题上，坚挺国实施再通胀政策的欧洲内部援助不可能充分，其主要原因在于德国国内的财政和政治条件。
+Reference:  Concerning external demand, intra-European help in the form of reflationary policies in stronger economies is unlikely to prove sufficient, owing primarily to the fiscal and political conditions prevailing in Germany.
+Prediction: On the issue of external demand, intra-European aid for reinflationary policies in strong countries is unlikely to be sufficient, mainly because of domestic financial and political conditions in Germany.
+
+[124]
+Chinese:    通过动员欧盟预算资源并增加欧洲投资银行向疲软国金融投资项目的贷款等形式实施的欧洲内部版马歇尔计划可以成为替代方案，但缺少政治支持。
+Reference:  Implementing a Marshall Plan-type initiative by mobilizing EU budget resources and additional lending by the European Investment Bank to finance investments in weaker countries could be an alternative, but it lacks political support.
+Prediction: The European internal Marshall Plan, implemented through, inter alia, the mobilization of EU budgetary resources and increased loans from the European Investment Bank to soft countries for financial investment projects, could be an alternative but lacked political support.
+
+[125]
+Chinese:    在全球范围内，美国和日本都没有提供重大外部刺激的条件。
+Reference:  On a global scale, neither the US nor Japan is in a position to provide significant external stimulus.
+Prediction: Globally, neither the United States nor Japan are equipped to provide significant external stimulus.
+
+[126]
+Chinese:    只有亚洲的新兴和发展中国家能通过旨在提振国内消费 — — 这反过来能够刺激更多的投资 — — 的政策协调有效地提振全球需求。
+Reference:  Only the emerging and developing economies of Asia could effectively contribute to lifting global demand through a coordinated effort aimed at boosting domestic consumption, which, in turn, would stimulate additional investment.
+Prediction: Only emerging and developing countries in Asia can effectively boost global demand through policy coordination aimed at boosting domestic consumption – which in turn can stimulate more investment.
+
+[127]
+Chinese:    IMF的最新经验表明，通过适当的协调，私人资金可以动员起��参与大型公司合作项目，将需求扩张和基础设施投资结合起来。
+Reference:  Recent IMF experience suggests that, through appropriate coordination, private funds could be mobilized for big private-public partnership projects linking demand expansion with infrastructure investment.
+Prediction: Recent IMF experience has shown that, through appropriate coordination, private funds can be mobilized to participate in large corporate cooperation projects that combine demand expansion and infrastructure investment.
+
+[128]
+Chinese:    换句话说，我们需要全球“新政 ” — —将旨在有序重列全球消费和投资的政策结合起来。
+Reference:  In other words, a global “New Deal” – combining policies designed to achieve an orderly realignment of consumption and investment worldwide – seems to be required.
+Prediction: In other words, we need a global “new deal” – a combination of policies aimed at an orderly re-introduction of global consumption and investment.
+
+[129]
+Chinese:    发达国家应该打起精神推进增进生产率的结构性改革。
+Reference:  The advanced economies should promote productivity-enhancing structural reforms with renewed vigor.
+Prediction: Developed countries should work in a spirit of structural change to increase productivity.
+
+[130]
+Chinese:    欧元区应该巩固其货币联盟。
+Reference:  The eurozone should solidify its currency union.
+Prediction: The euro area should consolidate its monetary union.
+
+[131]
+Chinese:    而新兴和发展中国家应该支持内部增长源。
+Reference:  And the emerging and developing economies should support domestic sources of growth.
+Prediction: Emerging and developing countries, on the other hand, should support internal sources of growth.
+
+[132]
+Chinese:    为了让这一新政成为可能，必须满足一定的先决条件。
+Reference:  For such a deal to become possible, certain preconditions must be met.
+Prediction: In order to make this new deal possible, certain preconditions must be met.
+
+[133]
+Chinese:    首先，G20必须加紧国际政策协调，这可以通过成立永久性秘书处负责考虑关于宏观经济和金融发展的政策方案和建议。
+Reference:  First, international policy coordination by the G-20 must be tightened by creating a permanent secretariat to make policy proposals and recommendations concerning macroeconomic and financial developments.
+Prediction: First, the G-20 must intensify international policy coordination, which could take into account policy options and recommendations on macroeconomic and financial development through the establishment of a permanent secretariat.
+
+[134]
+Chinese:    这一秘书处应该积极地与IMF合作，利用后者的分析结果，特别是汇率问题上的分析结果。
+Reference:  The secretariat should actively cooperate with the IMF to benefit from its analysis, notably regarding exchange rates.
+Prediction: Such a secretariat should actively cooperate with the IMF and make use of the latter ' s analysis, particularly with regard to exchange rates.
+
+[135]
+Chinese:    其次，全球金融改革必须加快节奏。
+Reference:  Second, global financial reform must proceed at a faster pace.
+Prediction: Secondly, global financial reform must accelerate.
+
+[136]
+Chinese:    金融部门需要加强监管、强化监督，还需要国际一致的解决机制以纠正太大（或太复杂）而不能倒的大型全球性机构带来的问题。
+Reference:  The financial sector requires tougher regulation, strengthened supervision, and internationally consistent resolution mechanisms to address the problems posed by very large, global institutions that are considered too big (or too complex) to fail.
+Prediction: The financial sector needs to strengthen regulation and supervision, as well as internationally agreed resolution mechanisms to address the problems posed by large global institutions that are too large (or too complex) to fail.
+
+[137]
+Chinese:    这类改革至关重要的，如果想要国际金融体系成为大规模资源转移媒介的话（而这又是全球需求结构必要变化的基础 ） 。
+Reference:  Such reform is essential if the international financial system is to mediate the sizeable resource transfers that will underpin the required changes in the structure of global demand.
+Prediction: Such reforms are essential if the international financial system is to become a vehicle for large-scale resource transfers (which, in turn, is the basis for the necessary changes in the structure of global demand).
+
+[138]
+Chinese:    最后，还需要新的贸易契约 — — 可能（但不一定）在多哈回合中形成 — — 以确保主要贸易大国能够进入外国市场。
+Reference:  Finally, a new trade pact – possibly, but not necessarily, within the Doha Round – is needed to ensure the major trading powers’ access to foreign markets.
+Prediction: Finally, there is also a need for a new trade contract – possibly (but not necessarily) in the Doha Round – to ensure that major trading powers have access to foreign markets.
+
+[139]
+Chinese:    这对于激发亚洲国家信心具有关键重要性，说服它们开发内部而不是外部需求源。
+Reference:  This is critically important for inspiring confidence in Asian countries, which might be persuaded to favor domestic, as opposed to external, sources of demand.
+Prediction: This is critical for generating confidence in Asian countries and convincing them to develop sources of internal rather than external demand.
+
+[140]
+Chinese:    此外，贸易自由化也能增加全世界消费者的信心。
+Reference:  Moreover, trade liberalization will also increase consumer confidence worldwide.
+Prediction: In addition, trade liberalization can increase consumer confidence worldwide.
+
+[141]
+Chinese:    新的全球协定正当时。 这一协定的目标应该是提振增长、消除世界某些地区的危机环境以及实现全球经济的再平衡以使其回到强劲、稳健的增长道路上来。
+Reference:  The time is right for a new global settlement that targets growth, addresses crisis conditions in certain parts of the world, and rebalances the global economy to set it back on a path of strong and steady growth.
+Prediction: The goal of the new global agreement should be to boost growth, remove the crisis environment in some parts of the world, and rebalance the global economy so that it can return to a robust and robust growth path.
+
+[142]
+Chinese:    另一种金融危机
+Reference:  The Other Financial Crisis
+Prediction: Another financial crisis.
+
+[143]
+Chinese:    发自纽波特滩 — — 金融危机的两个变体正继续蹂躏着西方经济，令失业和贫穷状况进一步加剧：一个是我们经常在报纸上读到的涉及各国政府的金融危机；另一个不那么起眼的则是中小型企业和家庭层面上的危机。
+Reference:  NEWPORT BEACH – Two variants of financial crisis continue to wreak havoc on Western economies, fueling joblessness and poverty: the one that we read about regularly in newspapers, involving governments around the world; and a less visible one at the level of small and medium-size businesses and households.
+Prediction: NEWPORT BEACH – Two variants of the financial crisis continue to ravage the Western economy, exacerbating unemployment and poverty: one, which we often read in the press, involves governments; and the other, less visible, is the crisis at the level of small and medium-sized enterprises and families.
+
+[144]
+Chinese:    在这两种危机得到恰当应对之前，西方世界将继续背负着增长滞缓、失业率长期居高及收入与财富差距过大的负担。
+Reference:  Until both are addressed properly, the West will remain burdened by sluggish growth, persistently high unemployment, and excessive income and wealth inequality.
+Prediction: Until these two crises are properly addressed, the Western world will continue to bear the burden of slow growth, long-term high unemployment and excessive income and wealth disparities.
+
+[145]
+Chinese:    主权债务危机是众所周知的。
+Reference:  The sovereign-debt crisis is well known.
+Prediction: The sovereign debt crisis is well known.
+
+[146]
+Chinese:    为了避免出现经济萧条，各国政府在全球金融危机期间都忙于实施财政及货币刺激政策。
+Reference:  In order to avert a likely depression, governments around the world engaged in fiscal and monetary stimulus in the midst of the global financial crisis.
+Prediction: In order to avoid a recession, Governments were busy implementing fiscal and monetary stimulus policies during the global financial crisis.
+
+[147]
+Chinese:    此举成功抵消了因私营部门去杠杆化所导致的严重经济紊乱，但却是以破坏自身财政收支平衡以及扰乱央行资产负债表为代价的。
+Reference:  They succeeded in offsetting nasty economic dislocations caused by private-sector deleveraging, but at the cost of encumbering their fiscal balances and their central banks’ balance sheets.
+Prediction: This succeeded in offsetting the serious economic disruption caused by the deleveraging of the private sector, but at the cost of undermining its fiscal balance and disrupting the balance sheet of the central bank.
+
+[148]
+Chinese:    虽然主权信贷的质量几乎全面恶化 — — 并很可能继续恶化下去 — — 但它对各国的影响却有所不同。
+Reference:  While sovereign credit quality has deteriorated virtually across the board, and will most probably continue to do so, the implications for individual countries vary.
+Prediction: While the quality of sovereign credit has deteriorated almost completely – and is likely to continue to deteriorate – it has had different effects on countries.
+
+[149]
+Chinese:    某些西方国家 — — 比如希腊 — — 起初其政府账目就非常糟糕，所以很快就陷入了长期持续性的危机模式。
+Reference:  Some Western countries – such as Greece – had fragile government accounts from the outset and tipped quickly into persistent crisis mode.
+Prediction: Some Western countries – Greece, for example – had very bad government accounts at first, so they quickly plunged into a long-lasting pattern of crisis.
+
+[150]
+Chinese:    这些国家将一直深陷危机，即便很长一段时期之后都依然无法为其公民带来一丝希望。
+Reference:  There they remain, still failing to provide citizens with a light at the end of what already has been a long tunnel.
+Prediction: Those countries will remain mired in crises that, even after a long period of time, will not bring a glimmer of hope to their citizens.
+
+[151]
+Chinese:    其他国家过去在财政上一直尽职尽责，却无力应对那些从别处承担的债务（例如那些不可靠的爱尔兰银行就毁了本国的预算 ） 。
+Reference:  Other countries had been fiscally responsible, but were overwhelmed by the liabilities that they had assumed from others (for example, Ireland’s irresponsible banks sank their budget).
+Prediction: Other countries have been fiscally diligent in the past but have been unable to cope with debts incurred elsewhere (e.g., unreliable Irish banks have destroyed their own budgets).
+
+[152]
+Chinese:    另外一些国家 — — 包括美国 — — 没有受到直接的威胁，但无法在某些长期事务上取得进展。 而有几个像德国这样的国家则通过多年的财政纪律和体制改革拥有了深厚的经济和金融复原能力。
+Reference:  Still others, including the United States, faced no immediate threat but failed to make progress on longer-term issues. A few, like Germany, had built deep economic and financial resilience through years of fiscal discipline and structural reforms.
+Prediction: Others – including the US – have not been directly threatened, but have been unable to make progress on some long-term issues. Several countries like Germany have gained a strong economic and financial resilience through years of fiscal discipline and institutional reform.
+
+[153]
+Chinese:    各国的应对政策各不相同，这也并不奇怪。
+Reference:  It is not surprising that policy approaches have also varied.
+Prediction: It is not surprising that responses vary from country to country.
+
+[154]
+Chinese:    但事实上，这些政策之间只拥有一个至关重要（也令人失望）的共同点：那就是无法依靠经济快速增长这个“最安全”的方法来为其过度负债的经济去杠杆化。
+Reference:  Indeed, they have shared only one, albeit crucial (and disappointing) feature: the inability to rely on rapid growth as the “safest” way to deleverage an over-indebted economy.
+Prediction: In fact, however, there is only one crucial (and disappointing) common denominator between these policies: the “safest” approach to rapid economic growth cannot be relied upon to deleveraging its over-indebted economy.
+
+[155]
+Chinese:    希腊实际上已经在某些债务上出现了违约。
+Reference:  Greece essentially defaulted on some obligations.
+Prediction: Greece had actually defaulted on certain debts.
+
+[156]
+Chinese:    爱尔兰和英国一样选择了紧缩政策和改革。
+Reference:  Ireland opted for austerity and reforms, as has the United Kingdom.
+Prediction: Ireland, like the United Kingdom, opted for austerity policies and reforms.
+
+[157]
+Chinese:    美国正逐步通过金融抑制手段把资源从债权人转移到债务人手上。
+Reference:  The US is gradually transferring resources from creditors to debtors through financial repression.
+Prediction: The United States is gradually shifting resources from creditors to debtors through financial repression.
+
+[158]
+Chinese:    而德国正逐渐适应在国内需求方面的稳健相对扩张。
+Reference:  And Germany is slowly acquiescing to a prudent relative expansion in domestic demand.
+Prediction: Germany, for its part, is gradually adapting to a robust relative expansion in domestic demand.
+
+[159]
+Chinese:    关于主权债务危机我想说的就这么多，因为考虑��其对国家、区域及全球的影响，对其的讨论已经足够丰富了。
+Reference:  So much for the sovereign-debt crisis, which, given its national, regional, and global impact, has been particularly well covered.
+Prediction: That's all I wanted to say about the sovereign debt crisis, because there's enough discussion about it considering its national, regional and global implications.
+
+[160]
+Chinese:    毕竟，它之所以被称之为主权，就是因为它们拥有征税、监管，甚至极端点说，没收的权力。
+Reference:  After all, sovereigns are called that because they have the power to impose taxes, regulations, and, at the extreme, confiscation.
+Prediction: After all, it is called sovereignty because they have the power to tax, regulate, or even, at the extreme, confiscate.
+
+[161]
+Chinese:    另外一种信贷危机也同样重要，但其受到的关注却少得多，即使它损坏了社会的凝聚力、生产力以及人们维持自身生活水平的能力（尤其是对底层人群来说 ） 。
+Reference:  But the other credit crisis is equally consequential, and receives much less attention, even as it erodes societies’ integrity, productive capabilities, and ability to maintain living standards (particularly for the least fortunate).
+Prediction: Another credit crisis is equally important, but it receives much less attention, even if it undermines social cohesion, productivity and the ability of people to maintain their own standard of living (especially for the bottom groups).
+
+[162]
+Chinese:    据我所知，绝大部分西方国家的中小企业、中等收入以及收入拮据的家庭都经历过信贷获取渠道显著下降 — — 不仅针对新的融资，还包括更新过往信贷额度和借款的能力。
+Reference:  I know of very few Western countries where small and medium-size companies, as well as middle-income households and those of more limited means, have not experienced a significant decline in their access to credit – not just new financing, but also the ability to roll over old credit lines and loans.
+Prediction: As far as I know, the vast majority of Western countries have experienced significant declines in access to credit for small and medium-sized enterprises, middle-income and income-constrained households – not only for new financing, but also for upgrading credit lines and borrowing capacities in the past.
+
+[163]
+Chinese:    这种信贷危机产生的直接原因大家都知道。
+Reference:  The immediate causes are well known.
+Prediction: The immediate causes of this credit crisis are well known.
+
+[164]
+Chinese:    其范围涵盖从银行抑制贷款到异常的高风险规避行为、从信贷工具信誉崩溃再到某些机构完全撤出信用中介机构的举措。
+Reference:  They range from subdued bank lending to unusually high risk aversion, and from discredited credit vehicles to the withdrawal of some institutions from credit intermediation altogether.
+Prediction: It covers initiatives ranging from bank repression to unusual high-risk circumvention, from the collapse of credit instruments to the complete withdrawal of certain institutions from credit intermediaries.
+
+[165]
+Chinese:    这种信贷约束是许多国家失业率持续上升的一个原因 — — 通常这些国家的失业率原本已经处于令人担忧的水平了，例如希腊和西班牙25%的失业率（这两个国家的青年失业率已经超过了50 % ） — — 同时也是像美国这样的国家失业率居高不下的原因（虽然相对而言美国的失业率并不高 ） 。
+Reference:  Such credit constraints are one reason why unemployment rates continue to rise in so many countries – often from already alarming levels, such as 25% in Greece and Spain (where youth unemployment is above 50%) – and why unemployment remains unusually high in countries like the US (albeit it at a much lower level).
+Prediction: This credit constraint is one of the reasons why unemployment continues to rise in many countries – where unemployment is usually already at alarming levels, such as 25% in Greece and Spain (where youth unemployment is already over 50%) – and high unemployment in countries like the United States (although relative unemployment is not high).
+
+[166]
+Chinese:    这不仅仅是生产力流失和贫困加剧的问题；长期的高失业率还会导致社会动荡、对本国政治领导人的不信任以及产生失落一代的风险。
+Reference:  This is not just a matter of lost capabilities and rising poverty; persistently high unemployment also leads to social unrest, erosion of trust in political leaders and institutions, and the mounting risk of a lost generation.
+Prediction: This is not only a problem of lost productivity and increased poverty; long-term high unemployment can also lead to social unrest, mistrust of national political leaders and the risk of losing a generation.
+
+[167]
+Chinese:    确实，许多发达国家的失业数据主要由长期失业构成（通常定义为六个月或以上 ） 。
+Reference:  Indeed, unemployment data in many advanced countries are dominated by long-term joblessness (usually defined as six months or more).
+Prediction: Indeed, unemployment data in many developed countries consist mainly of long-term unemployment (usually defined as six months or more).
+
+[168]
+Chinese:    技能的逐渐丧失对那些原本有工作经验的人来说是个问题，而首次就业不成功则不仅意味着失业这么简单，还隐含着不会被雇佣的风险。
+Reference:  Skill erosion becomes a problem for those with prior work experience, while unsuccessful first-time entrants into the labor force are not just unemployed, but risk becoming unemployable.
+Prediction: The gradual loss of skills is a problem for those who otherwise had work experience, and the failure of first employment means not only that unemployment is so simple, but also that there is an implicit risk that they will not be employed.
+
+[169]
+Chinese:    政府们在处理私人信贷危机上做得太少了。
+Reference:  Governments are doing too little to address the private credit debacle.
+Prediction: The government has done too little to deal with the private credit crisis.
+
+[170]
+Chinese:    虽然理论上它们必先解决危机中的主权债务方面；然而目前尚不清楚大部分官员是否制订了一个全面计划。
+Reference:  Arguably, they must first sort out the sovereign side of the crisis; but it is not clear that most officials even have a comprehensive plan.
+Prediction: While theoretically they had to resolve the sovereign debt aspects of the crisis, it was not clear whether most officials had a comprehensive plan.
+
+[171]
+Chinese:    那些受到主权债务危机影响最剧烈的国家的政策非对称性最为明显。
+Reference:  Policy asymmetry is greatest for the countries most acutely affected by the sovereign-debt crisis.
+Prediction: The policies of those countries most affected by sovereign debt crises are most evident in terms of symmetry.
+
+[172]
+Chinese:    在这些国家，政府基本上任由私营部门自生自灭；大部分家庭和企业都处在挣扎之中，因此加剧了长期的经济崩溃。
+Reference:  There, the private sector has essentially been left to fend for itself; and most households and companies are struggling, thus fueling continued economic implosion.
+Prediction: In these countries, Governments have largely left the private sector to its own devices; most households and businesses are struggling, thus exacerbating long-term economic collapse.
+
+[173]
+Chinese:    其他国家则仿佛采取了一种“寻梦之地 ” — —也被称之为“平台建好了，人就来了 ” — —的方法来处理私人信贷市场，例如，在美国，由于美联储的政策措施，人为降低了对住房抵押贷款的利率，以期启动审慎的融资。
+Reference:  Other countries appear to have adopted a “Field of Dreams” – also known as “build it and they will come” – approach to private credit markets, In the US, for example, artificially low interest rates for home mortgages, resulting from the Federal Reserve’s policy activism, are supposed to kick-start prudent financing.
+Prediction: Other countries, for their part, seem to have adopted a “dreamplace” – also known as the platform – to deal with private credit markets, for example, in the United States, where, as a result of the Fed’s policy measures, interest rates on mortgages have been artificially reduced in order to initiate prudent financing.
+
+[174]
+Chinese:    欧洲央行也正在采取这么一个间接手段。
+Reference:  The European Central Bank is taking a similarly indirect approach.
+Prediction: The ECB is also taking such an indirect approach.
+
+[175]
+Chinese:    但在这两个地方，掌握有更有力工具的其他政策制定实体似乎既不愿意也无力承担自己的角色。
+Reference:  In both places, other policymaking entities, with much better tools at their disposal, appear either unwilling or unable to play their part.
+Prediction: In both cases, however, other policy-making entities with stronger tools appear to be neither willing nor able to assume their roles.
+
+[176]
+Chinese:    在这种情况下，央行的行动将一直无法产生足够的牵引力。
+Reference:  As such, action by central banks will repeatedly fail to gain sufficient traction.
+Prediction: Under these circumstances, the actions of the central bank will not be able to generate sufficient pull.
+
+[177]
+Chinese:    事实上，只有英国明确选择了更协调也更直接的方式来抵消由私人信贷危机引起的长期短缺。
+Reference:  In fact, only the UK is visibly opting for a more coordinated and direct way to counter the persistent shortfalls stemming from the private part of the credit crisis.
+Prediction: In fact, only the United Kingdom clearly chose a more coordinated and direct way to offset the chronic shortfall caused by the private credit crisis.
+
+[178]
+Chinese:    由英国格兰银行和财政部共同设计的“贷款资助方案”旨在“提高银行和建房互助协会向英国家庭和非金融企业借贷的动力 ” ， 同时也要求前者为自身的行为负责。
+Reference:  There, the “Funding for Lending Scheme,” jointly designed by the Bank of England and the Treasury, seeks “to boost the incentive for banks and building societies to lend to UK households and non-financial companies,” while holding them accountable for proper behavior.
+Prediction: The Loan Funding Program, designed jointly by the Bank of Gran and the Treasury Department of England, aims to “enhance the incentives of banks and mortgage societies to borrow from British households and non-financial businesses” while holding the former accountable for their actions.
+
+[179]
+Chinese:    英国的例子很重要；但是考虑到整个挑战所涉及的范围和规模 ，该提案还是相对保守的。
+Reference:  The UK example is important; but, given the scope and scale of the challenges, the proposal is a relatively modest one.
+Prediction: The British example is important; but the proposal is relatively conservative, given the scope and scale of the challenge as a whole.
+
+[180]
+Chinese:    这一计划也许能刺激一些有益的信用中介行为，但它依然无法对那些继续阻碍强劲经济复苏的因素产生重大影响。
+Reference:  The program may stimulate some productive credit intermediation, but it will not make a significant dent in what will remain one of the major obstacles to robust economic recovery.
+Prediction: The scheme may stimulate some beneficial credit intermediation, but it still cannot have a significant impact on those factors that continue to impede strong economic recovery.
+
+[181]
+Chinese:    生产部门能够拥有适当的信贷获取渠道对一个运转良好的经济体来说至关重要。
+Reference:  Proper access to credit for productive segments is an integral part of a well-functioning economy.
+Prediction: Adequate access to credit for the productive sector is crucial for a well-functioning economy.
+
+[182]
+Chinese:    否则经济增长就将止步不前，也无法充分创造就业，不断扩大的财富与收入差距将腐蚀整个社会结构。
+Reference:  Without it, growth falters, job creation is insufficient, and widening income and wealth inequality undermines the social fabric.
+Prediction: Otherwise, economic growth will be stagnating and unable to generate sufficient employment, and the widening wealth-income gap will erode the fabric of society as a whole.
+
+[183]
+Chinese:    这就是为什么任何恢复发达国家经济和金融活力的综合性手段都必须着眼于适当复苏私人信贷流的原因。
+Reference:  That is why any comprehensive approach to restoring the advanced countries’ economic and financial vibrancy must target the proper revival of private credit flows.
+Prediction: That is why any comprehensive means of reviving the economic and financial dynamism of developed countries must be geared towards an appropriate revival of private credit flows.
+
+[184]
+Chinese:    有害的政治学和更好的经济学
+Reference:  Toxic Politics Versus Better Economics
+Prediction: Harmful politics and better economics
+
+[185]
+Chinese:    纽约—政治学和经济学之间的关系在变化。
+Reference:  NEW YORK – The relationship between politics and economics is changing.
+Prediction: NEW YORK — The relationship between political science and economics is changing.
+
+[186]
+Chinese:    发达国家政客陷于古怪并且常常有害的冲突之中，而没有在关于如何摆脱长期不平等低增长时期的问题上按照日益一致的经济共识行事。
+Reference:  Advanced-country politicians are locked in bizarre, often toxic, conflicts, instead of acting on a growing economic consensus about how to escape a protracted period of low and unequal growth.
+Prediction: Politicians in developed countries are caught in eccentric and often harmful conflicts without acting in accordance with the growing economic consensus on how to move away from a period of chronic inequality and low growth.
+
+[187]
+Chinese:    这一趋势必须扭转，否则它将破坏发达经济的结构，并让新兴经济体也陷入困境。
+Reference:  This trend must be reversed, before it structurally cripples the advanced world and sweeps up the emerging economies, too.
+Prediction: That trend must be reversed, otherwise it would undermine the structure of the developed economies and trap emerging economies.
+
+[188]
+Chinese:    显然，政治内斗不是什么新鲜事。
+Reference:  Obviously, political infighting is nothing new.
+Prediction: Clearly, the fight within politics is not new.
+
+[189]
+Chinese:    但是，直到最近，人们一直认为，如果职业经济学家能就给定的政策方针形成技术官僚一致，政治领导人是能够听进去的。
+Reference:  But, until recently, the expectation was that if professional economists achieved a technocratic consensus on a given policy approach, political leaders would listen.
+Prediction: However, until recently, it had been argued that political leaders could listen if professional economists were able to develop a technocratic consensus on the policy guidelines given.
+
+[190]
+Chinese:    即使有更多激进政党试图推行不同的日程，但强大的力量 — — 不管是来自G7政府的到的劝告、私人资本市场，还是国际货币基金组织（IMF）和世界银行贷款的附加条件 — — 几乎总能确保共识方针最终能够胜出。
+Reference:  Even when more radical political parties attempted to push a different agenda, powerful forces – whether moral suasion from G7 governments, private capital markets, or the conditionality attached to International Monetary Fund and World Bank lending – would almost always ensure that the consensus approach eventually won the day.
+Prediction: Even if more radical political parties try to pursue different agendas, powerful forces – be they advice from the G7 government, private capital markets, or conditionality attached to International Monetary Fund (IMF) and World Bank loans – can almost always ensure that the consensus approach is finally won.
+
+[191]
+Chinese:    比如，从20世纪90年代到21世纪初，所谓的华盛顿共识主导着世界大部的政策决定，从美国到诸多新兴经济体，所有人都在追求贸易自由化、私有化、扩大价格机制用途、金融业去监管，以及着重强调供给侧的财政和货币改革。
+Reference:  In the 1990s and 2000s, for example, the so-called Washington Consensus dominated policymaking in much of the world, with everyone from the United States to a multitude of emerging economies pursuing trade liberalization, privatization, greater use of price mechanisms, financial-sector deregulation, and fiscal and monetary reforms with a heavy supply-side emphasis.
+Prediction: For example, from the 1990s to the beginning of the twenty-first century, the so-called Washington Consensus dominated policy decisions in many parts of the world, ranging from the United States to many emerging economies, where everyone was pursuing trade liberalization, privatization, expanding the use of price mechanisms, regulating the financial sector and focusing on fiscal and monetary reforms on the supply side.
+
+[192]
+Chinese:    多边机构采用华盛顿共识放大的这一传导机制，推动了更广大的经济和金融全球化过程。
+Reference:  The embrace of the Washington Consensus by multilateral institutions amplified its transmission, helping to drive forward the broader process of economic and financial globalization.
+Prediction: The adoption by multilateral institutions of this transmission mechanism, which was magnified by the Washington Consensus, has contributed to the broader process of economic and financial globalization.
+
+[193]
+Chinese:    即将上任的新政府 — — 特别是那些由非传统运动的政府，它们之所以能够掌权，依靠的是国内的焦虑情绪和对主流政党的失望 — — 有时华盛顿共识的适当性和重要性有不同意见。
+Reference:  Incoming governments – particularly those led by non-traditional movements, which had risen to power on the back of domestic unease and frustration with mainstream parties – sometimes disagreed with the appropriateness and relevance of the Washington Consensus.
+Prediction: The incoming new governments – especially those of non-traditional movements – have been able to take power on the basis of domestic anxiety and frustration with mainstream political parties – sometimes with divergent views on the appropriateness and importance of the Washington consensus.
+
+[194]
+Chinese:    但是，巴西总统卢拉以其著名的2002年政策重点证明，华盛顿共识最后往往还是能够胜出，并且一直主导全局直到两年前希腊总理齐普拉斯采取了同样令人瞩目的一百八十度大转弯。
+Reference:  But, as Brazilian President Luiz Inácio Lula da Silva demonstrated with his famous policy pivot in 2002, that consensus tended largely to prevail. And it continued to hold sway as recently as almost two years ago, when Greek Prime Minister Alexis Tsipras executed an equally notable U-turn.
+Prediction: However, President Lula of Brazil, with his well-known 2002 policy focus, proved that the Washington Consensus often ended up winning and dominated the whole picture until two years ago, when Greek Prime Minister Tsipras took an equally remarkable 180-degree turn.
+
+[195]
+Chinese:    但在经历了多年反常的停滞和令人震惊的不包容增长后，华盛顿共识正在解体。
+Reference:  But after years of unusually sluggish and strikingly non-inclusive growth, the consensus is breaking down.
+Prediction: But the Washington Consensus is breaking down after years of abnormal stagnation and alarmingly intolerant growth.
+
+[196]
+Chinese:    发达国家公民对“建制 ” — —包括经济“专家 ” 、 主流政治领导人、主要跨国公司 — — 感到失望，越来越多的人指责它们是经济艰难的罪魁祸首。
+Reference:  Advanced-country citizens are frustrated with an “establishment” – including economic “experts,” mainstream political leaders, and dominant multinational companies – which they increasingly blame for their economic travails.
+Prediction: The citizens of developed countries are disappointed with “formed” – including economic “experts”, mainstream political leaders, and major transnational corporations – who are increasingly being accused of being responsible for economic hardship.
+
+[197]
+Chinese:    反建制运动和人物很快就抓住了这一不满，利用煽动性乃至战斗性言辞赢得支持。
+Reference:  Anti-establishment movements and figures have been quick to seize on this frustration, using inflammatory and even combative rhetoric to win support.
+Prediction: The opposition movements and figures quickly seized on this discontent and used inflammatory and even combative rhetoric to gain support.
+
+[198]
+Chinese:    他们甚至不需要赢得选举就能干扰经济学和政治学之间的传递机制。
+Reference:  They do not even have to win elections to disrupt the transmission mechanism between economics and politics.
+Prediction: They do not even need to win elections to interfere with the transmission mechanism between economics and political science.
+
+[199]
+Chinese:    6月份，英国以退欧投票证明了这一点 — — 这一决定直接否认了留在欧盟符合英国的最佳利益这一经济共识。
+Reference:  The United Kingdom proved that in June, with its Brexit vote – a decision that directly defied the broad economic consensus that remaining within the European Union was in Britain’s best interest.
+Prediction: In June, the United Kingdom demonstrated this by voting back – a decision that directly denies the economic consensus that it is in the best interest of the United Kingdom to remain in the EU.
+
+[200]
+Chinese:    英国公投的发生原因是，2013年，时任首相卡梅伦担心他在当年的大选中无法确保其保守党基本盘。
+Reference:  The referendum happened for one reason: in 2013, then-Prime Minister David Cameron feared that he would be unable to secure sufficiently his Conservative Party base in the general election that year.
+Prediction: The British referendum took place because in 2013, then Prime Minister Cameron feared that he would not be able to ensure his Conservative Party fundamentals in the general elections of that year.
+
+[201]
+Chinese:    因此他用承诺举行公投诱惑疑欧派选民。
+Reference:  So he pandered to Euroskeptic voters with the promise of a referendum.
+Prediction: He therefore used his promise to hold a referendum to seduce European voters.
+
+[202]
+Chinese:    卡梅伦为什么要担心？
+Reference:  The source of Cameron’s fear?
+Prediction: Why does Cameron have to worry?
+
+[203]
+Chinese:    因为英国独立党（UK Independent Party）所造成的政治干扰。 反建制的英国独立党最后只在议会赢得了一个席位，随后便陷入群龙无首的乱局。
+Reference:  The political disruption caused by the UK Independence Party – an anti-establishment party that ended up winning only one seat in Parliament and subsequently found itself leaderless and in turmoil.
+Prediction: Because of the political interference caused by the UK Independence Party, the anti-constituent British Independence Party finally won only one seat in Parliament, and then fell into a state of chaos.
+
+[204]
+Chinese:    如今，防洪门似乎已经洞开。
+Reference:  Now, it seems, the floodgates have opened.
+Prediction: Today, the flood door seems to have been opened.
+
+[205]
+Chinese:    在最近的保守党年度大会上，首相梅及其内阁成员的讲话表明他们准备追求“硬退欧 ” ， 取缔给英国经济带来巨大好处的贸易安排。
+Reference:  At the recent Conservative Party annual conference, speeches by Prime Minister Theresa May and members of her cabinet revealed an intention to pursue a “hard Brexit,” thereby dismantling trading arrangements that have served the economy well.
+Prediction: At the recent Conservative Party Annual Congress, Prime Minister May and members of his cabinet made a statement that they were ready to pursue a “hard-back” ban on trading arrangements that would bring great benefits to the British economy.
+
+[206]
+Chinese:    他们还抨击“国际精英 ” ， 批评英格兰银行的政策。 在公投刚刚结束的那段时间，英格兰银行的政策起到了稳定英国经济的中流砥柱的作用，从而给梅的新政府赢得了制定一致的退欧战略的时间。
+Reference:  They also included attacks on “international elites” and criticism of Bank of England policies that were instrumental in stabilizing the British economy in the referendum’s immediate aftermath – thus giving May’s new government time to formulate a coherent Brexit strategy.
+Prediction: They also criticized the “international elite” and the Bank of England’s policy. During the period immediately following the referendum, the Bank’s policy served as a central pillar for stabilizing the British economy, thereby giving May’s new government time to develop a coherent strategy for Europe’s retreat.
+
+[207]
+Chinese:    其他一些发达经济体也正在经历类似的政治发展趋势。
+Reference:  Several other advanced economies are experiencing analogous political developments.
+Prediction: Other developed economies are experiencing similar political developments.
+
+[208]
+Chinese:    在德国，极右翼的德国另类党（Alternative für Deutschland）在最近的州选举中表现出人意料的强势，它已经开始影响德国政府的行为。
+Reference:  In Germany, a surprisingly strong showing by the far-right Alternative für Deutschland in recent state elections already appears to be affecting the government’s behavior.
+Prediction: In Germany, the extreme right-wing German alternative (Alternative für Deutscheland) has shown unexpected strength in the recent cantonal elections, and it has begun to influence the behaviour of the German Government.
+
+[209]
+Chinese:    在美国，即使唐纳德·特朗普的竞选不能让共和党重新问鼎白宫（这一可能性日益增加，因为这出相当反常的总统选战最近又曝出新转折，许多共和党领导人宣布不再支持本党提名人 ） ， 他成为候选人这一事实也可能给美国政治带来持续影响。
+Reference:  In the US, even if Donald Trump’s presidential campaign fails to put a Republican back in the White House (as appears increasingly likely, given that, in the latest twist of this highly unusual campaign, many Republican leaders have now renounced their party’s nominee), his candidacy will likely leave a lasting impact on American politics.
+Prediction: In the United States, even if Donald Trump’s campaign does not allow the Republicans to reopen the White House (a possibility that is growing, given that the rather abnormal presidential campaign has recently exposed itself to a new turn, and many Republican leaders have announced that they no longer support their party’s nominees), the fact that he is a candidate may have a continuing impact on American politics.
+
+[210]
+Chinese:    如果管理不当，12月的意大利宪政公投 — — 总理伦齐为巩固其支持而兵行险招 — — 将适得其反，一如卡梅伦的公投方案，导致政治干扰，阻碍解决意大利经济挑战的有效行动。
+Reference:  If not managed well, Italy’s constitutional referendum in December – a risky bid by Prime Minister Matteo Renzi to consolidate support – could backfire, just like Cameron’s referendum did, causing political disruption and undermining effective action to address the country’s economic challenges.
+Prediction: If not properly managed, the December Italian constitutional referendum – which Prime Minister Renzi has taken in a desperate attempt to consolidate his support – would be counterproductive, as was the case with Cameron’s referendum, leading to political disruptions and hampering effective action to address Italy’s economic challenges.
+
+[211]
+Chinese:    不要弄错了，可靠可信的政策选项仍在可及范围内。
+Reference:  Make no mistake: solid and credible policy options are available.
+Prediction: Don't be mistaken. Reliable and credible policy options remain within reach.
+
+[212]
+Chinese:    在经历了多年的平庸经济表现后，一个广泛的一致是必须摆脱对非常规货币政策的过度依赖。
+Reference:  After years of mediocre economic performance, there is widespread agreement that a shift away from excessive dependence on unconventional monetary policy is needed.
+Prediction: After many years of mediocre economic performance, there was broad agreement on the need to move away from overdependence on unconventional monetary policies.
+
+[213]
+Chinese:    IMF总裁拉加德指出 ， “ 中央银行不可以成为唯一的博弈 ” 。
+Reference:  As IMF Managing Director Christine Lagarde put it, “central banks cannot be the only game in town.”
+Prediction: According to IMF President Lagarde, “the central bank cannot be the only game.”
+
+[214]
+Chinese:    但它们正是。
+Reference:  And yet they have been.
+Prediction: But they are.
+
+[215]
+Chinese:    我在1月出版的《唯一的博弈 》 （ The Only Game in Town）中指出，各国需要更加全面的政策方针，包括促增长的结构性改革、更平衡的需求管理（包括增加基础设施方面的财政支出）和更好的跨国政策协作和组织。
+Reference:  As I argue in The Only Game in Town, published in January, countries need a more comprehensive policy approach, involving pro-growth structural reforms, more balanced demand management (including higher fiscal spending on infrastructure), and better cross-border policy coordination and architecture.
+Prediction: As I noted in The Only Game in Town, published in January, countries need more comprehensive policy approaches, including structural reforms for growth, more balanced demand management, including increased fiscal spending on infrastructure, and better cross-country policy collaboration and organization.
+
+[216]
+Chinese:    此外还需要解决严重的过度负债问题 — — 没完没了的希腊危机突出了这一点 — — 该问题的破坏性影响远远不局限于直接受害者。
+Reference:  There is also a need, highlighted by the protracted Greek crisis, to address pockets of severe over-indebtedness, which can have crushing impact extending well beyond the directly affected.
+Prediction: There is also a need to address the serious problem of excessive indebtedness – highlighted by the endless Greek crisis – whose devastating effects go far beyond the immediate victims.
+
+[217]
+Chinese:    在这些问题上形成新共识是好消息。
+Reference:  The emergence of a new consensus on these points is good news.
+Prediction: The development of a new consensus on these issues is good news.
+
+[218]
+Chinese:    但是，在当前政治环境下，将这一共识转化为行动可能过于缓慢甚至无从实现。
+Reference:  But, in the current political environment, translating that consensus into action is likely to happen too slowly, at best.
+Prediction: However, in the current political environment, translating this consensus into action may be too slow or impossible to achieve.
+
+[219]
+Chinese:    风险在于，随着坏政治学挤出好经济学，群众愤怒和不满将愈演愈烈，让政治学变得更加有害。
+Reference:  The risk is that, as bad politics crowds out good economics, popular anger and frustration will rise, making politics even more toxic.
+Prediction: The risk is that, as bad political science crowds out good economics, popular anger and discontent will grow, making political science even more harmful.
+
+[220]
+Chinese:    我们希望开明的政治领导层及时掌控全局，自愿采取中途纠错，以免明确的经济和金融危机信号迫使决策者不得不将重点放在影响最小化上。
+Reference:  One hopes that enlightened political leadership takes the reins in time to make the needed mid-course corrections voluntarily, before unambiguous signs of economic and financial crisis force policymakers to scramble to minimize the damage.
+Prediction: We hope that enlightened political leadership will take control of the whole picture in a timely manner and will voluntarily take the midway wrong, lest clear signals of the economic and financial crisis force policymakers to focus on minimizing impact.
+
+[221]
+Chinese:    日本的另一个教训
+Reference:  Another Lesson from Japan
+Prediction: Another lesson from Japan.
+
+[222]
+Chinese:    发自纽黑文 — — 最近这段时间出人意料的通胀坏消息真是一个接着一个。
+Reference:  NEW HAVEN – Yet another in a long string of negative inflation surprises is at hand.
+Prediction: NEW HAVEN – The unexpectedly bad news of inflation in recent times is one after another.
+
+[223]
+Chinese:    在美国，所谓的核心消费价格指数（core CPI ） — —不包括食品和能源 — — 在一片上行预期中调头向下。
+Reference:  In the United States, the so-called core CPI (consumer price index) – which excludes food and energy – has headed down just when it was supposed to be going up.
+Prediction: In the United States, the so-called core consumer price index (CPI) – excluding food and energy – has turned downward in an upwards scenario.
+
+[224]
+Chinese:    截至五月份的三个月中，核心消费物价指数基本保持不变，维持在较去年同期高出1.7个百分点的水平。
+Reference:  Over the three months ending in May, the core CPI was basically unchanged, holding, at just 1.7% above its year-earlier level.
+Prediction: In the three months up to May, the core consumer price index remained largely unchanged, at a level of 1.7 percentage points higher than in the same period last year.
+
+[225]
+Chinese:    对于各界广泛认为已经近乎实现充分就业神迹的美国经济来说，这简直是当头一盆冷水 — — 而最尴尬的莫过于已尽一切努力要使通胀水平回归2％目标值的美联储了。
+Reference:  For a US economy that is widely presumed to be nearing the hallowed ground of full employment, this comes as a rude awakening – particularly for the Federal Reserve, which has pulled out all the stops to get inflation back to its 2% target.
+Prediction: For the US economy, which is widely believed to be close to the miracle of full employment, this is the first cold water – and the most embarrassing is the Fed, which has made every effort to return inflation to its target level of 2%.
+
+[226]
+Chinese:    而在世界的另一侧，类似的故事也在日本继续上演。
+Reference:  Halfway around the world, a similar story continues to play out in Japan.
+Prediction: On the other side of the world, similar stories continue to unfold in Japan.
+
+[227]
+Chinese:    但是对于极易出现通缩的日本经济来说，故事的内容更让人揪心。
+Reference:  But, for the deflation-prone Japanese economy, it’s a much tougher story.
+Prediction: But for the economy of Japan, which is prone to deflation, the story is even more compelling.
+
+[228]
+Chinese:    截至今年4月份，日本的核心消费物价指数较去年同期基本持平，而东京都市圈的经济表现显示5月也将如此。
+Reference:  Through April, Japan’s core CPI was basically flat relative to its year-earlier level, with a similar outcome evident in May for the Tokyo metropolitan area.
+Prediction: As of April this year, Japan ' s core consumer price index was almost at the same level as last year, while the economic performance of the Tokyo Metropolitan Circle showed that it would be the same in May.
+
+[229]
+Chinese:    对于为遏制持续19年（1994~2013）累计达19.5％的通缩趋势而动用了史无前例的非常规政策武器库的日本银行来说，这不仅仅是一个盆冷水，简直就是一场近乎失败的窘境。
+Reference:  For the Bank of Japan (BoJ), which committed an unprecedented arsenal of unconventional policy weapons to arrest a 19-year stretch of 16.5% deflation lasting from 1994 to 2013, this is more than just a rude awakening. It is an embarrassment bordering on defeat.
+Prediction: For the Bank of Japan, which has used an unprecedented arsenal of non-conventional policy weapons to contain a deflationary trend of 19.5 per cent over a period of 19 years (1994-2013), this is not just a cold water, but a near failure.
+
+[230]
+Chinese:    这个故事适用于全球范围。
+Reference:  This story is global in scope.
+Prediction: This story applies globally.
+
+[231]
+Chinese:    当然也存在一些值得留意的异常例子 — — 比如英国，货币压力和一次性假期扭曲暂时将核心通胀率提高至2.4 ％ ， 还有马来西亚，燃料补贴的取消推动了总体通胀，但核心通胀率稳定在2.5％左右。
+Reference:  Yes, there are a few notable outliers – namely, the United Kingdom, where currency pressures and one-off holiday distortions are temporarily boosting core inflation to 2.4%, and Malaysia, where the removal of fuel subsidies has boosted headline inflation, yet left the core stable at around 2.5%.
+Prediction: There are, of course, some notable anomalies – for example, in the United Kingdom, where currency pressure and one-time holiday distortions temporarily raise the core inflation rate to 2.4 per cent, and in Malaysia, where the elimination of fuel subsidies has driven overall inflation, but core inflation has stabilized at around 2.5 per cent.
+
+[232]
+Chinese:    但它们都是这个无通胀世界中的例外。
+Reference:  But they are exceptions in an otherwise inflationless world.
+Prediction: But they are all exceptions in this inflation-free world.
+
+[233]
+Chinese:    国际货币基金组织的最新预测表明了这一点。
+Reference:  The International Monetary Fund’s latest forecasts bear this out.
+Prediction: The latest projections of the International Monetary Fund show this.
+
+[234]
+Chinese:    尽管全球经济将实现温和增长，但发达经济体在2017~18年的通胀水平预计将略低于2 ％ 。
+Reference:  Notwithstanding a modest firming of global economic growth, inflation in the advanced economies is expected to average slightly less than 2% in 2017-2018.
+Prediction: Despite moderate global economic growth, inflation in developed economies is expected to be slightly below 2 per cent in 2017-18.
+
+[235]
+Chinese:    这个故事的第一章是多年前在日本写就的。
+Reference:  The first chapter of this tale was written many years ago, in Japan.
+Prediction: The first chapter of this story was written many years ago in Japan.
+
+[236]
+Chinese:    从资产泡沫和杠杆过剩到汇率压制和生产力下降，日本的经验 — — 所谓“失去的十年”现在已经拉长到了二十五年 — — 展现了一个大型富裕的经济体可能会犯下的所有错误。
+Reference:  From asset bubbles and excess leverage to currency suppression and productivity impairment, Japan’s experience – with lost decades now stretching to a quarter-century – is testament to all that can go wrong in large and wealthy economies.
+Prediction: From asset bubbles and excess leverage to exchange-rate repression and declining productivity, Japan’s experience – the so-called “lost decade” now stretches to 25 years – reveals all the mistakes that a large, wealthy economy could make.
+
+[237]
+Chinese:    但没什么教训能比日本央行犯下的一系列政策失误更为深刻。
+Reference:  But no lesson is more profound than that of a series of policy blunders made by the BoJ.
+Prediction: But there is no lesson more profound than the series of policy failures committed by the Central Bank of Japan.
+
+[238]
+Chinese:    不仅使用鲁莽的货币宽松政策为日本的衰亡奠定了基础；该国央行还将政策利率归零（甚至更低 ） ， 实施量化宽松政策和操纵长期利率以期复兴经济，却令问题变得更为复杂。
+Reference:  Not only did reckless monetary accommodation set the stage for Japan’s demise; the country’s central bank compounded the problem by taking policy rates to the zero bound (and even lower), embracing quantitative easing, and manipulating long-term interest rates in the hopes of reviving the economy.
+Prediction: Not only has reckless monetary easing been used to lay the foundation for Japan’s decline; the central bank’s policy interest rate has also been zero (or even lower), and the implementation of quantitative easing and the manipulation of long-term interest rates to revive the economy have further complicated the problem.
+
+[239]
+Chinese:    这创造了一种不健康却又极难摆脱的依赖状态。
+Reference:  This has created an unhealthy dependency from which there is no easy exit.
+Prediction: This creates a state of unhealthy dependency that is extremely difficult to escape.
+
+[240]
+Chinese:    虽然日本自1990年代初以来的经验提供了许多教训，但世界其他地方对此却令人沮丧地充耳不闻。
+Reference:  Though Japan’s experience since the early 1990s provides many lessons, the rest of the world has failed miserably at heeding them.
+Prediction: While the experience of Japan since the early 1990s had provided many lessons, the rest of the world had been dishearteningly deaf to it.
+
+[241]
+Chinese:    研究论文写了无数篇，研讨会举办了无数次，还有诸如美国前美联储主席本·伯南克（Ben Bernanke）等高人都承诺永不会重蹈日本覆辙。
+Reference:  Volumes have been written, countless symposiums have been held, and famous promises have been made by the likes of former US Fed chairman Ben Bernanke never to repeat Japan’s mistakes.
+Prediction: Numerous research papers have been written, the seminar has been held numerous times, and high-ranking individuals such as Ben Bernanke, former Chairman of the Federal Reserve of the United States, have pledged never to repeat Japan's mistakes.
+
+[242]
+Chinese:    不过一次又一次地其他主要中央银行 — — 尤其是美联储和欧洲央行 — — 总是会紧接着掉进坑里，并产生同样可怕的后果。
+Reference:  Yet time and again, other major central banks – especially the Fed and the European Central Bank – have been quick to follow, with equally dire consequences.
+Prediction: But again and again, other major central banks – especially the Federal Reserve and the European Central Bank – will always fall into the pit, with the same terrible consequences.
+
+[243]
+Chinese:    2017年的通胀意外事件提供了三个关键的见解。
+Reference:  The inflation surprise of 2017 offers three key insights.
+Prediction: The inflation accident of 2017 provided three key insights.
+
+[244]
+Chinese:    首先，通货膨胀与经济萧条程度之间的关系 — — 即所谓的菲利普斯曲线（Phillips curve ） — —已经瓦解了。
+Reference:  First, the relationship between inflation and economic slack – the so-called Phillips curve – has broken down.
+Prediction: First, the relationship between inflation and the degree of economic depression – the so-called Phillips curve – has collapsed.
+
+[245]
+Chinese:    拜日内瓦大学教授理查德·鲍德温（Richard Baldwin）所谓的全球化“第二次分割”所赐，世界上因此充斥着供应过剩且日益分散化的全球供应链。
+Reference:  Courtesy of what the University of Geneva’s Richard Baldwin calls the “second unbundling” of globalization, the world is awash in the excess supply of increasingly fragmented global supply chains.
+Prediction: Thanks to what Richard Baldwin, a professor at the University of Geneva, called the “second division” of globalization, the world is rife with oversupply and increasingly decentralized global supply chains.
+
+[246]
+Chinese:    而借助这些供应链的外包大大扩大了全球供应曲线的弹性，并从根本上改变了劳动力和产品市场萧条的概念，以及这类萧条状态对通胀的压力。
+Reference:  Outsourcing via these supply chains dramatically expands the elasticity of the global supply curve, fundamentally altering the concept of slack in labor and product markets, as well as the pressure such slack might put on inflation.
+Prediction: Outsourcing through these supply chains has significantly increased the elasticity of the global supply curve and fundamentally changed the concept of depressed labour and product markets, as well as the pressures of such depressions on inflation.
+
+[247]
+Chinese:    其次，当今的全球化在本质上是不对称的。
+Reference:  Second, today’s globalization is inherently asymmetric.
+Prediction: Secondly, globalization today is essentially asymmetric.
+
+[248]
+Chinese:    由于各种原因 — — 日本和美国资产负债表的持续衰退，恐惧驱动下的中国国内预防性储蓄，以及欧洲生产力受限导致的消费疲软 — — 大多数主要经济体的需求侧依然受损严重。
+Reference:  For a variety of reasons – hangovers from balance-sheet recessions in Japan and the US, fear-driven precautionary saving in China, and anemic consumption in productivity-constrained Europe – the demand side of most major economies remains severely impaired.
+Prediction: For a variety of reasons – the continuing decline in Japan’s and the US balance sheets, fear-driven domestic preventive savings in China, and weak consumption as a result of productivity constraints in Europe – the demand side of most major economies remains severely undermined.
+
+[249]
+Chinese:    再结合供应不断扩大的背景，因此导致的不平衡状态在本质上是通缩式的。
+Reference:  Juxtaposed against a backdrop of ever-expanding supply, the resulting imbalance is inherently deflationary.
+Prediction: In combination with the expanding supply context, the resulting imbalance is inherently deflationary.
+
+[250]
+Chinese:    第三，中央银行在应对所谓的非平稳流动性陷阱的变动目标方面都是无能为力的。
+Reference:  Third, central banks are all but powerless to cope with the moving target of what can be called a non-stationary liquidity trap.
+Prediction: Thirdly, the central bank has been unable to respond to the changing objectives of the so-called unstable liquidity trap.
+
+[251]
+Chinese:    正如约翰·梅纳德·凯恩斯（John Maynard Keynes）在1930年代大萧条时首先观察到的那样，流动性陷阱描述了一个政策利率已达零点，却依旧无法刺激长期缺乏的总需求的状况。
+Reference:  First observed by John Maynard Keynes during the Great Depression of the 1930s, the liquidity trap describes a situation in which policy interest rates, having reached the zero bound, are unable to stimulate chronically deficient aggregate demand.
+Prediction: As John Maynard Keynes first observed in the Great Depression of the 1930s, the mobility trap describes a policy interest rate that has reached zero, but that still fails to stimulate long-sought aggregate demand.
+
+[252]
+Chinese:    这听起来是不是有点耳熟？
+Reference:  Sound familiar?
+Prediction: Does that sound familiar to you?
+
+[253]
+Chinese:    而如今使用的新花招则是不断扩张的全球供应曲线。
+Reference:  The novel twist today is the ever-expanding global supply curve.
+Prediction: Now, the new trick is the expanding global supply curve.
+
+[254]
+Chinese:    这使得今天的中行比1930年代更加束手无策。
+Reference:  That makes today’s central banks even more impotent than they were in the 1930s.
+Prediction: This makes the middle of the day even more unhelpful than in the 1930s.
+
+[255]
+Chinese:    这可不是不治之症。
+Reference:  This is not an incurable disease.
+Prediction: It's not incurable.
+
+[256]
+Chinese:    在一个超全球化的世界 — — 除了由美国优先主义者领导的保护主义逆流之外 — — 应对方案应当集中在等式的需求一侧。
+Reference:  In a world of hyper-globalization – barring a protectionist relapse led by the America Firsters – treatment needs to be focused on the demand side of the equation.
+Prediction: In a globalized world – in addition to the protectionist reversals led by the American priorityists – responses should be focused on the demand side of the equation.
+
+[257]
+Chinese:    而1930年代以及从现代日本的经验带来的最重要教训，就是货币政策对总需求的长期缺乏状况无计可施。
+Reference:  The most important lesson from the 1930s, as well as from the modern-day Japanese experience, is that monetary policy provides no answer for a chronic deficiency of aggregate demand.
+Prediction: The most important lesson from the 1930s and from the experience of modern Japan is that monetary policy has failed to respond to the chronic lack of aggregate demand.
+
+[258]
+Chinese:    解决这个问题主要得靠财政部门，中行应该考虑再度许诺提高其通胀目标的想法是不可靠的。
+Reference:  Addressing it is a task primarily for fiscal authorities. The idea that central banks should consider making a new promise to raise their inflation targets is hardly credible.
+Prediction: The solution to the problem lay primarily in the financial sector, and it was not credible that the Chinese should consider a new promise to increase their inflation targets.
+
+[259]
+Chinese:    与此同时，美联储主席珍妮特·耶伦（Janet Yellen ） （ 最后终于）作出了正确的决定，推动美联储的政策正常化，终结了一个早该因一无是处而刹车的错误实验。
+Reference:  In the meantime, Fed Chair Janet Yellen is right (finally) to push the Fed to normalize policy, putting an end to a failed experiment that has long outlived its usefulness.
+Prediction: At the same time, Federal Reserve Chairman Janet Yellen (and finally) took the right decision to normalize the Fed’s policy and put an end to an erroneous experiment that should have been stopped for nothing.
+
+[260]
+Chinese:    一直以来的危险在于：不是何时才是尽头的非常规货币宽松政策将无法对实体经济构成牵引力，并将过多的流动性注入了美国和全球金融市场，从而导致资产泡沫，肆意金融冒险和下一次危机。
+Reference:  The danger all along has been that open-ended unconventional monetary easing would fail to achieve traction in the real economy, and would inject excess liquidity into US and global financial markets that could lead to asset bubbles, reckless risk taking, and the next crisis.
+Prediction: The danger has been that unconventional monetary easing, which is not the end of time, will not be able to act as a pull to the real economy and inject excessive liquidity into United States and global financial markets, leading to asset bubbles, reckless financial risk-taking and the next crisis.
+
+[261]
+Chinese:    此外，由于非常规宽松政策是为了一个不再存在的紧急状态而制定的战略，因此也使得美联储没有弹药来应对不可避免的下一轮衰退和危机。
+Reference:  Moreover, because unconventional easing was a strategy designed for an emergency that no longer exists, it leaves the Fed with no ammunition to fight the inevitable next downturn and crisis.
+Prediction: In addition, the unconventional easing policy was designed as a strategy for a state of emergency that no longer existed, thus depriving the Fed of ammunition to cope with the inevitable next cycle of recession and crisis.
+
+[262]
+Chinese:    我们对历史的忽视是存在极大危险的。
+Reference:  We ignore history at great peril.
+Prediction: Our neglect of history is extremely dangerous.
+
+[263]
+Chinese:    以通胀为目标的各大央行最近的铩羽而归根本不是一个意外，相关的长期利率下跌也是如此。
+Reference:  The latest disappointment for inflation-targeting central banks is really not a surprise after all. The same is true of the related drop in long-term interest rates.
+Prediction: The recent return of major central banks targeted for inflation was no accident at all, as was the related decline in long-term interest rates.
+
+[264]
+Chinese:    仔细学习日本的教训，必定获益良多。
+Reference:  There is much to be gained by studying carefully the lessons of Japan.
+Prediction: A careful study of Japan's lessons must have benefited a great deal.
+
+[265]
+Chinese:    欧洲：退一步海阔天空
+Reference:  A Rest Stop for Europe
+Prediction: Europe: a step back from the sea and the sky
+
+[266]
+Chinese:    普林斯顿—上周，在一次备受期待的演讲中，德国总理高克对盲目追求“前所未有地紧密”的欧盟表达了担忧，他承认成员国之间日渐增加的不平等性正在产生“不安的感觉，甚至错误的愤怒 ， ” 这增加了国家受辱的风险。
+Reference:  PRINCETON – Last week, in a highly anticipated speech, German President Joachim Gauck cautioned against the blind pursuit of an “ever-closer” European Union, acknowledging that the growing inequality among member states is generating “a sense of unease, even unmistakable anger,” and increasing the risk of national humiliation.
+Prediction: PRINCETON – Last week, in a much-awaited speech, German Chancellor Gorker expressed concern about the blind pursuit of the “unprecedented closeness” of the EU, acknowledging that growing inequality among member States is generating “a sense of anxiety, even a false anger”, which increases the risk of humiliation.
+
+[267]
+Chinese:    他指出，除了经济危机，还有“一场对作为政治工程的欧洲的信心的危机 ” 。
+Reference:  He pointed out that, in addition to the economic crisis, there is “a crisis of confidence in Europe as a political project.”
+Prediction: He noted that, in addition to the economic crisis, there was “a crisis of confidence in Europe as a political project”.
+
+[268]
+Chinese:    尽管高克断然表示他仍是坚决的欧洲支持者，但他也强调了深刻思考欧洲未来的需要，特别是欧元区的未来。
+Reference:  While Gauck made clear that he remains decidedly pro-Europe, he highlighted the need for closer reflection about Europe’s future – and especially that of the eurozone.
+Prediction: While Gauc categorically stated that he remained a strong supporter of Europe, he also stressed the need for in-depth reflection on Europe’s future, particularly in the euro area.
+
+[269]
+Chinese:    站在进一步一体化的边上，欧洲人犹豫了 ， “ 不确定我们是否应该向前跨出新的步伐 ” 。
+Reference:  Standing on the verge of greater integration, Europeans are hesitant, “unsure whether we should really stride out on the onward journey.”
+Prediction: On the edge of further integration, Europeans hesitated, “It is uncertain whether we should take a new step forward”.
+
+[270]
+Chinese:    他说，要打消这一犹豫，深入细致地思考“更欧洲”的真正含义。
+Reference:  Addressing this hesitation, he declared, will require a thoughtful, nuanced understanding of what “more Europe” actually means.
+Prediction: He said that the hesitation should be overcome and the true meaning of “more Europe” should be considered in depth.
+
+[271]
+Chinese:    或许高克走的还不够远：目前前所未有地紧密的联盟可能是一场政治婚姻。
+Reference:  Gauck may not have gone far enough: At this point, an ever-closer union may be a political mirage.
+Prediction: Perhaps Gork did not go far enough: an unprecedentedly close alliance could be a political marriage.
+
+[272]
+Chinese:    任何有让欧元区更稳定的有意义的进步都需要重大 — — 从根本上说是开放 — — 的财政承诺，而欧盟还没有做好跨越之一门槛的政治准备。
+Reference:  Any meaningful progress toward stabilizing the eurozone would require a significant – potentially open-ended – financial commitment, and the EU is not politically ready to cross that threshold.
+Prediction: Any meaningful progress towards greater stability in the eurozone will require significant – and fundamentally open – financial commitments, and the EU is not yet ready to cross one of the thresholds.
+
+[273]
+Chinese:    一再地假装前进，然后又在临界点退缩，这增加了政治不确定性和经济脆弱性。
+Reference:  Repeatedly pretending to move forward, then pulling back at the critical point, exacerbates political uncertainty and economic vulnerability.
+Prediction: Repeated pretending to move forward and then retreating at critical points have increased political uncertainty and economic vulnerability.
+
+[274]
+Chinese:    现在或许并不是犹犹豫豫追求更统一的时机，而是重塑欧元区国家当局有效主权的时机。
+Reference:  Rather than indecisively pursuing more unity, this may be the moment to restore effective sovereignty to national authorities in eurozone countries.
+Prediction: This may not be the time to hesitate to pursue a more unified approach, but the time to reshape the effective sovereignty of national authorities in the euro area.
+
+[275]
+Chinese:    这样做能够在短期缓和焦虑，从而使欧洲得到重组机会，为未来迈向更一体化的欧洲和更坚挺的欧元做好准备。
+Reference:  Such a move would alleviate anxiety in the short term, thereby giving Europeans the opportunity to regroup in preparation for future steps toward a more integrated Europe and a more resilient euro.
+Prediction: This would alleviate anxiety in the short term, thus giving Europe the opportunity to restructure and prepare for a more integrated Europe and a stronger euro in the future.
+
+[276]
+Chinese:    在这方面，欧元区领导人必须实施三个基本措施。
+Reference:  To this end, eurozone leaders must take three key steps.
+Prediction: In this regard, the leaders of the euro area must implement three basic measures.
+
+[277]
+Chinese:    功能不全的欧洲财政治理制度应该取消；财政责任应该交还给成员国；同时，为了让未来过度借贷最小化，应该要求私人债权人承担不可持续的主权债务的损失。
+Reference:  The dysfunctional system of European fiscal governance should be dismantled; fiscal responsibility should be returned to member states; and, to minimize the risk of excessive future lending, private lenders should be required to bear the losses implied by unsustainable sovereign debt.
+Prediction: A dysfunctional system of fiscal governance in Europe should be eliminated; fiscal responsibility should be returned to member States; and, in order to minimize future excessive borrowing, private creditors should be required to bear the loss of unsustainable sovereign debt.
+
+[278]
+Chinese:    欧洲财政治理的问题是显而易见的。
+Reference:  The case against European fiscal governance is straightforward.
+Prediction: The problems of fiscal governance in Europe are obvious.
+
+[279]
+Chinese:    危机前一根筋地强调将预算赤字限制在GDP的3%之内导致了这一方针的滥用。
+Reference:  Before the crisis, the single-minded emphasis on reducing national budget deficits to less than 3% of GDP led to extensive abuse.
+Prediction: The pre-crisis sharp emphasis on limiting the budget deficit to 3 per cent of GDP has led to the abuse of this approach.
+
+[280]
+Chinese:    德国和法国等领先经济体公开奚落这一目标，而有的国家则操纵数字掩盖问题（这是欧元区普遍的现象，不光是希腊 ） 。
+Reference:  Either the target was openly flouted, as it was in leading economies like Germany and France, or the data were manipulated to obscure problems (a common practice throughout the eurozone, not just in Greece).
+Prediction: Some of the leading economies, such as Germany and France, openly fall short of this goal, while others manipulate figures to hide the problem (which is common in the eurozone, not only in Greece).
+
+[281]
+Chinese:    而把经济增长当作财政万灵丹的思想导致了不切实际的乐观GDP预期。
+Reference:  And the belief in economic growth as a fiscal panacea led to unrealistically optimistic GDP forecasts.
+Prediction: The idea of economic growth as a financial panacea has led to unrealistically optimistic GDP expectations.
+
+[282]
+Chinese:    危机爆发后，3%赤字目标成了无情的紧缩政策的焦点 — — 人类学家格尔茨（Clifford Geertz）将这种形式称为“内卷化 ” ， 当一个过程因外部或内部压力而加剧而不是变化时就发生了内卷化。
+Reference:  When the crisis struck, the 3% deficit target became the focal point for unrelenting austerity – a form of what anthropologist Clifford Geertz described as “involution,” which occurs when a process intensifies rather than changes in response to external or internal pressure.
+Prediction: In the wake of the crisis, the 3% deficit target became the focus of a relentless austerity policy – anthropologist Clifford Geertz called this form “internalized” when a process was exacerbated, not changed, by external or internal pressure.
+
+[283]
+Chinese:    换句话说，欧盟领导人开始强化财政治理，最终形成了不可避免的低效监管和官僚主义难题。
+Reference:  In other words, EU leaders began to complicate fiscal governance, ultimately creating an inefficient, inescapable labyrinth of regulation and bureaucracy.
+Prediction: In other words, European Union leaders have begun to strengthen fiscal governance, ultimately creating inevitable problems of inefficient regulation and bureaucracy.
+
+[284]
+Chinese:    随着财政指标变得越来越复杂，监控财政行为越来越容易糊弄。
+Reference:  As fiscal metrics become increasingly intricate, monitoring efforts will become ever easier to undermine.
+Prediction: As financial indicators become more complex, monitoring fiscal behaviour becomes more and more easy to manipulate.
+
+[285]
+Chinese:    把财政责任交还给国家当局的问题也很大 — — 这不仅是因为集中财政当局已被证明极其低效。
+Reference:  The case for returning fiscal responsibility to national authorities is also strong – and not only because centralized fiscal authority has proved to be so inefficient.
+Prediction: The question of transferring financial responsibility to the national authorities is also enormous – not only because centralized fiscal authorities have proved to be extremely inefficient.
+
+[286]
+Chinese:    受困国人民承担了危机的财政负担，如此仍认为它们不负责任的说法不可不谓傲慢。
+Reference:  With citizens of distressed countries bearing the fiscal burden of the crisis, the enduring presumption that they will not act responsibly is patronizing, at best.
+Prediction: The people of the affected countries bore the financial burden of the crisis, and it was no more than arrogance to maintain that they were irresponsible.
+
+[287]
+Chinese:    当前用甜头换良政的策略鼓励博弈而不利于责任。
+Reference:  And the current strategy of exchanging goodies for good behavior encourages game-playing and dilutes responsibility.
+Prediction: The current strategy of swapping sweets for good governance encourages games rather than responsibilities.
+
+[288]
+Chinese:    尽管政府受财政诱惑的风险仍然存在，但当下人民所受的苦难有可能会遏制未来的过度。
+Reference:  While the risk that governments will succumb to fiscal temptation remains, citizens’ current suffering is likely to deter future excesses.
+Prediction: While the risk of fiscal temptation on the part of the Government still exists, the suffering of the current people is likely to curb future excesses.
+
+[289]
+Chinese:    国家财政主权能促进最后的关键措施：建立与私人债权人的更成熟的关系。
+Reference:  National fiscal sovereignty would facilitate the final crucial step: building a more mature relationship with private lenders.
+Prediction: State fiscal sovereignty can facilitate the last key measure: the establishment of a more mature relationship with private creditors.
+
+[290]
+Chinese:    欧元区是建立在“无援助”原则上的：如果成员国无法偿还债务，债权人必须承受损失。
+Reference:  The eurozone was founded on the “no bailout” principle: if member states could not repay their debts, lenders would bear the losses.
+Prediction: The euro area is based on the “no aid” principle: if member countries cannot pay their debts, creditors must bear the losses.
+
+[291]
+Chinese:    但债权人选择无视这一威胁 — — 事实表明他们是正确的。
+Reference:  But lenders chose – correctly, as it turned out – to disregard that threat.
+Prediction: But creditors have chosen to ignore this threat – and the facts show that they are right.
+
+[292]
+Chinese:    债务国并没有强推无援助原则为后来者建立榜样，而是用官方贷款偿付私人债权人。
+Reference:  Instead of enforcing the no-bailout principle and establishing a precedent, debtor countries used official loans to repay private creditors.
+Prediction: Instead of imposing the principle of aidlessness as an example for later generations, debtor countries pay their private creditors with official loans.
+
+[293]
+Chinese:    结果，这些国家把自己推向了持续紧缩、低增长和高债务，同时又切断了所有让私人债权人对主权债务人施加财政纪律的未来激励。
+Reference:  As a result, these countries have condemned themselves to continued austerity, low growth, and high debt, while diminishing any future incentive for private lenders to impose fiscal discipline on sovereign borrowers.
+Prediction: As a result, these countries push themselves towards continued austerity, low growth and high debt, while cutting off all future incentives for private creditors to impose fiscal discipline on sovereign debtors.
+
+[294]
+Chinese:    除非将这一负担抛回给私人债权人，否则债务国就无法摆脱债务泥淖。
+Reference:  Only by shifting the burden of responsibility back onto private lenders can debtor countries escape this quagmire.
+Prediction: Unless this burden is put back on private creditors, debtor countries will not be able to escape the burden of debt.
+
+[295]
+Chinese:    在美国，各州对其财政管理负责，不需遵守单一的总模式。
+Reference:  In the United States, each state is responsible for its fiscal management, without being forced to comply with a single, overarching template.
+Prediction: In the United States, each state is responsible for its financial management and is not subject to a single general model.
+
+[296]
+Chinese:    各州不受联邦政府监管；它们受没人会为它们的债务买单这一认识的约束。
+Reference:  The states are not regulated by the federal government; they are disciplined by the knowledge that no one will repay their debts for them.
+Prediction: The Länder were not regulated by the federal Government; they were bound by the recognition that no one would pay for their debts.
+
+[297]
+Chinese:    这一制度运转良好：与欧元区的脆弱成员国相比，进入危机后，美国各州大幅降低了赤字和债务率。
+Reference:  And the system seems to work: entering the crisis, US states had significantly lower deficit and debt ratios than the eurozone’s vulnerable member states.
+Prediction: The system worked well: the United States states had significantly reduced their deficits and debt ratios in the wake of the crisis, compared to the fragile members of the euro area.
+
+[298]
+Chinese:    目前，欧洲一体化大体上是一个“掉向前 ” （ falling forward）的过程，每一次跌倒都会成为形成更坚固的联盟的教训。
+Reference:  So far, European integration has largely been a process of “falling forward,” with each stumble serving as a lesson from which a stronger union emerges.
+Prediction: At present, European integration is largely a “falling forward” process, and every fall serves as a lesson for a stronger union.
+
+[299]
+Chinese:    但是，这一不确定方法或许足以成为宣称善意的基础，但并不能激发各国做出当下所急需的深刻财政承诺所需要的信心。
+Reference:  But, while this uncertain approach may suffice as a basis for declarations of good intentions, it does not inspire the confidence required for countries to make the profound financial commitment that is now needed.
+Prediction: However, this uncertain approach may be sufficient to serve as a basis for a declaration of good faith, but it does not inspire the confidence that States need to make the profound financial commitments that are sorely needed at the moment.
+
+[300]
+Chinese:    欧洲人应该获得站稳脚跟的机会。
+Reference:  Europeans should have the chance to regain their footing.
+Prediction: Europeans should be given a chance to stand firm.
+
