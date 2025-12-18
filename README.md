@@ -7,6 +7,11 @@ pip install -r requirements.txt
 ``
 
 **Mandarin-English Translation**  
+Go to the Mandarin Directory:  
+``bash
+cd mandarin_translation
+``  
+
 Download WMT19 Dataset (optional, already included):  
 ``bash
 python scripts/download_wmt19.py
