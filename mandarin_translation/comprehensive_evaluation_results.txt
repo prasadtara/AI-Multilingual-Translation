@@ -1,0 +1,42 @@
+======================================================================
+COMPREHENSIVE EVALUATION RESULTS
+Multiple Metrics: BLEU, chrF, TER
+======================================================================
+
+Dataset: WMT19 Chinese-English (300 test pairs)
+Domain: Professional news translations
+
+BASELINE (Pretrained MarianMT):
+  BLEU:  23.33
+  chrF:  56.41
+  TER:   68.19
+
+FINE-TUNED (3 epochs on 2,400 WMT19 pairs):
+  BLEU:  26.55
+  chrF:  57.08
+  TER:   63.80
+
+IMPROVEMENTS:
+  BLEU:  +3.22 points (+13.8%)
+  chrF:  +0.67 points (+1.2%)
+  TER:   +4.39 points (lower is better)
+
+======================================================================
+METRIC EXPLANATIONS
+======================================================================
+
+BLEU (Bilingual Evaluation Understudy):
+  - Measures n-gram precision (1-4 grams)
+  - Range: 0-100 (higher is better)
+  - Industry standard for MT evaluation
+
+chrF (Character n-gram F-score):
+  - Character-level matching (robust to word order)
+  - Range: 0-100 (higher is better)
+  - Better for morphologically rich languages
+
+TER (Translation Error Rate):
+  - Measures edit distance (insertions, deletions, shifts)
+  - Range: 0-100 (LOWER is better)
+  - Indicates how much editing needed
+

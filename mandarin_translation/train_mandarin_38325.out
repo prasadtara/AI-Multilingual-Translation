@@ -1,0 +1,115 @@
+============================================================
+Job started at: Thu Nov 13 04:32:59 MST 2025
+Running on host: g001
+Job ID: 38325
+============================================================
+
+Python location: /home/skong/.conda/envs/translation/bin/python
+Python version: Python 3.10.19
+
+GPU Information:
+Thu Nov 13 04:33:10 2025       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 515.65.01    Driver Version: 515.65.01    CUDA Version: 11.7     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  NVIDIA A100-PCI...  Off  | 00000000:21:00.0 Off |                  Off |
+| N/A   37C    P0    39W / 250W |      0MiB / 40960MiB |      0%      Default |
+|                               |                      |             Disabled |
++-------------------------------+----------------------+----------------------+
+|   1  NVIDIA A100-PCI...  Off  | 00000000:81:00.0 Off |                  Off |
+| N/A   40C    P0    39W / 250W |      0MiB / 40960MiB |      3%      Default |
+|                               |                      |             Disabled |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+
+============================================================
+Mandarin-English Translation Training
+Using Transformer Architecture (MarianMT)
+============================================================
+
+Device: cuda
+GPU: NVIDIA A100-PCIE-40GB
+GPU Memory: 42.36 GB
+
+------------------------------------------------------------
+Loading datasets...
+✓ Train: 2400 pairs
+✓ Dev: 300 pairs
+✓ Test: 300 pairs
+
+------------------------------------------------------------
+Loading pre-trained MarianMT model...
+✓ Model loaded: Helsinki-NLP/opus-mt-zh-en
+✓ Model parameters: 77.9M
+
+------------------------------------------------------------
+Tokenizing datasets...
+✓ Tokenization complete
+
+------------------------------------------------------------
+Setting up training configuration...
+✓ Batch size: 8
+✓ Learning rate: 3e-05
+✓ Epochs: 3
+✓ Mixed precision (fp16): False
+
+============================================================
+Starting training...
+============================================================
+(This may take 20-40 minutes)
+
+{'loss': 0.8777, 'grad_norm': 1.1226145029067993, 'learning_rate': 2.6733333333333334e-05, 'epoch': 0.33}
+{'loss': 0.3523, 'grad_norm': 1.1172778606414795, 'learning_rate': 2.3400000000000003e-05, 'epoch': 0.67}
+{'loss': 0.3466, 'grad_norm': 0.8627350926399231, 'learning_rate': 2.0066666666666665e-05, 'epoch': 1.0}
+{'eval_loss': 0.3007185459136963, 'eval_runtime': 1.0332, 'eval_samples_per_second': 290.371, 'eval_steps_per_second': 18.39, 'epoch': 1.0}
+{'loss': 0.2866, 'grad_norm': 0.8860594034194946, 'learning_rate': 1.6733333333333335e-05, 'epoch': 1.33}
+{'loss': 0.2951, 'grad_norm': 1.096854567527771, 'learning_rate': 1.34e-05, 'epoch': 1.67}
+{'loss': 0.2966, 'grad_norm': 1.0559989213943481, 'learning_rate': 1.0066666666666666e-05, 'epoch': 2.0}
+{'eval_loss': 0.30072492361068726, 'eval_runtime': 1.1212, 'eval_samples_per_second': 267.564, 'eval_steps_per_second': 16.946, 'epoch': 2.0}
+{'loss': 0.254, 'grad_norm': 1.1096261739730835, 'learning_rate': 6.733333333333334e-06, 'epoch': 2.33}
+{'loss': 0.2635, 'grad_norm': 0.9296185970306396, 'learning_rate': 3.4e-06, 'epoch': 2.67}
+{'loss': 0.2632, 'grad_norm': 1.297339677810669, 'learning_rate': 6.666666666666667e-08, 'epoch': 3.0}
+{'eval_loss': 0.30201664566993713, 'eval_runtime': 1.0309, 'eval_samples_per_second': 291.014, 'eval_steps_per_second': 18.431, 'epoch': 3.0}
+{'train_runtime': 190.815, 'train_samples_per_second': 37.733, 'train_steps_per_second': 2.358, 'train_loss': 0.3595092879401313, 'epoch': 3.0}
+
+------------------------------------------------------------
+Saving model...
+✓ Model saved to ./results/mandarin_model/final
+
+============================================================
+TRAINING COMPLETE!
+============================================================
+Final training loss: 0.3595
+Total training time: 190.81 seconds
+
+------------------------------------------------------------
+Testing model with sample translations...
+------------------------------------------------------------
+
+ZH: 你好世界
+EN: How do you do?
+
+ZH: 今天天气很好
+EN: It's a good day.
+
+ZH: 我喜欢学习人工智能
+EN: I like learning artificial intelligence.
+
+============================================================
+All done! Your model is ready.
+============================================================
+
+============================================================
+Job completed at: Thu Nov 13 05:10:32 MST 2025
+============================================================
