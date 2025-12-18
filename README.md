@@ -6,7 +6,7 @@ Our project aim to build a multilingual translator for Mandarin-English and Tami
 pip install -r requirements.txt
 ``
 
-**Mandarin-English Translation**  
+### Mandarin-English Translation  
 Go to the Mandarin Directory:  
 ``bash
 cd mandarin_translation
@@ -21,3 +21,5 @@ Evaluate Fine-tuned Model
 ``bash
 python evaluate_finetuned.py
 ``   
+This file translates 300 test sentences and calculates BLEU score.  
+Results are saved to **finetuned_test_results.txt**  
