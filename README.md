@@ -8,35 +8,35 @@ pip install -r requirements.txt
 
 ### Mandarin-English Translation  
 **1. Go to the Mandarin Directory:**  
-``bash
+```bash
 cd mandarin_translation
-``  
+```  
 
 **2. Download WMT19 Dataset (optional, already included):**  
-``bash
+```bash
 python scripts/download_wmt19.py
-``
+```
 
 **3. Evaluate Fine-tuned Model:**  
-``bash
+```bash
 python evaluate_finetuned.py
-``   
+```   
 This file translates 300 test sentences and calculates BLEU score.  
 Results are saved to **finetuned_test_results.txt**  
 
 **4. Run Comprehensive Evaluation**  
-``bash
+```bash
 python comprehensive_evaluation.py
-``  
+```  
 This file evaluates both baseline and fine-tuned models with multiple metrics.  
 Metrics: BLEU, chrF, and TER  
 Results are saved to **comprehensive_evaluation_results.txt**  
 
 **5. Training (GPU Required)**  
-``bash
+```bash
 python train_mandarin.py  
 sbatch train_mandarin.sh
-``  
+```  
 
 **6. Key Files**  
 **- Scripts:**  
