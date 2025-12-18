@@ -40,4 +40,8 @@ sbatch train_mandarin.sh
 
 **6. Key Files**  
 **- Scripts:**  
-  train_mandarin.py //fine-tuning script for MarianMT  
+```bash
+  train_mandarin.py               // fine-tuning script for MarianMT
+  evaluate_finetuned.py           // evaluation script for fine-tuned model
+  comprehensive_evaluation.py     // multi-metric evaluation
+```  
