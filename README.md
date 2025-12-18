@@ -10,9 +10,9 @@ pip install -r requirements.txt
 Download WMT19 Dataset (optional, already included):
 ``bash
 python scripts/download_wmt19.py
-```
+``
 
 Evaluate Fine-tuned Model
-```bash
+``bash
 python evaluate_finetuned.py
-```  
+``   
