@@ -5,3 +5,14 @@ Our project aim to build a multilingual translator for Mandarin-English and Tami
 ``bash
 pip install -r requirements.txt
 ``
+
+**Mandarin-English Translation**  
+Download WMT19 Dataset (optional, already included):
+``bash
+python scripts/download_wmt19.py
+```
+
+Evaluate Fine-tuned Model
+```bash
+python evaluate_finetuned.py
+```  
