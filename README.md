@@ -7,12 +7,12 @@ pip install -r requirements.txt
 ``
 
 **Mandarin-English Translation**  
-Download WMT19 Dataset (optional, already included):
+Download WMT19 Dataset (optional, already included):  
 ``bash
 python scripts/download_wmt19.py
 ``
 
-Evaluate Fine-tuned Model
+Evaluate Fine-tuned Model  
 ``bash
 python evaluate_finetuned.py
 ``   
