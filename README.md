@@ -52,4 +52,10 @@ sbatch train_mandarin.sh
 - train_mandarin_38325.out        // training log from successful run
   
 **Data:**  
-- data/mandarin/                  // WMT19 Chinese-English parallel corpus  
+- data/mandarin/                  // WMT19 Chinese-English parallel corpus
+
+**7. View Results**  
+```bash
+cat finetuned_test_results.txt  
+cat comprehensive_evaluation_results.txt
+```
