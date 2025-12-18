@@ -42,4 +42,13 @@ sbatch train_mandarin.sh
 **Scripts:**  
 - train_mandarin.py               // fine-tuning script for MarianMT  
 - evaluate_finetuned.py           // evaluation script for fine-tuned model  
-- comprehensive_evaluation.py     // multi-metric evaluation  
+- comprehensive_evaluation.py     // multi-metric evaluation
+
+**Results:**  
+- baseline_test_results.txt
+- finetuned_test_results.txt
+- comprehensive_evaluation_results.txt
+- train_mandarin_38325.out        // training log from successful run
+  
+**Data:**  
+- data/mandarin/                  // WMT19 Chinese-English parallel corpus  
