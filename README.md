@@ -5,6 +5,7 @@ Our project aims to build a multilingual translator for Mandarin-English and Tam
 ### Getting Started  
 ``bash
 pip install -r requirements.txt
+pip install pandas torch transformers sacrebleu nltk
 ``
 
 ### Mandarin-English Translation  
@@ -59,3 +60,26 @@ sbatch train_mandarin.sh
 cat finetuned_test_results.txt  
 cat comprehensive_evaluation_results.txt
 ```
+### Tamil-English Translation
+
+**1. Go to the Tamil Directory:**  
+```bash
+cd tamil_translation
+```
+**2. Ensure Thirukkural dataset is in current directory (file already included)**  
+
+**3. Run translation scripts:**  
+```bash
+python final_embeddings.py
+```
+  
+Results are saved to **translated_tamil_thirukkural.csv**  
+
+**5. Move translated_tamil_thirukkural.csv to working directory if not already**
+
+**5. Calculate Metrics and View Results**  
+```bash
+python translation_metrics.py
+```
+**Results:**
+- translated_tamil_thirukkural.csv
