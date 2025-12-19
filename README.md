@@ -7,7 +7,7 @@ Our project aims to build a multilingual translator for Mandarin-English and Tam
 pip install -r requirements.txt
 ```
 ```bash
-pip install pandas torch transformers sacrebleu nltk
+pip install pandas torch transformers sacrebleu nltk tqdm numpy requests
 ```
 
 ### Mandarin-English Translation  
