@@ -3,10 +3,12 @@ This is a semester project for course CS 4820.
 Our project aims to build a multilingual translator for Mandarin-English and Tamil-English.    
   
 ### Getting Started  
-``bash
+```bash
 pip install -r requirements.txt
+```
+```bash
 pip install pandas torch transformers sacrebleu nltk
-``
+```
 
 ### Mandarin-English Translation  
 **1. Go to the Mandarin Directory:**  
